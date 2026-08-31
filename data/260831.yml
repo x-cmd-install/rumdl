@@ -1,0 +1,64 @@
+about:
+  description: Fast Markdown linter and formatter written in Rust
+  license: MIT
+  homepage: 
+  head: d7539b9
+  archived: false
+  latestVersion: v0.2.62
+  collectedAt: 2026-08-31T06:18:02Z
+timeline:
+  created: 2025-02-28
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-27
+popularity:
+  star: 1464
+  watcher: 8
+  fork: 77
+  release: 374
+  contributor: 55
+  pullRequest: 20
+  issue: 681
+language:
+  Rust: 15522338
+  Python: 89999
+  Shell: 34647
+  Makefile: 26613
+  JavaScript: 22527
+  TypeScript: 9713
+  Dockerfile: 3042
+  Tape: 1093
+  Go Template: 328
+totalLine: 15710300
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 15
+    mergedPR: 10
+    openPR: 2
+    closedIssue: 25
+    openIssue: 11
+    commit: 141
+  last90d:
+    since: 2026-06-02
+    release: 58
+    mergedPR: 54
+    openPR: 2
+    closedIssue: 104
+    openIssue: 11
+    commit: 556
+  last180d:
+    since: 2026-03-04
+    release: 100
+    mergedPR: 77
+    openPR: 2
+    closedIssue: 237
+    openIssue: 11
+    commit: 1227
+  last360d:
+    since: 2025-09-05
+    release: 100
+    mergedPR: 114
+    openPR: 2
+    closedIssue: 587
+    openIssue: 11
+    commit: 2560
