@@ -1,0 +1,208 @@
+about:
+  description: "Fast Markdown linter and formatter written in Rust"
+  license: MIT
+  homepage: 
+  head: afa47c8
+  archived: false
+  latestVersion: "v0.2.67"
+  collectedAt: 2026-09-07T03:55:17Z
+timeline:
+  created: 2025-02-28
+  lastCommit: 2026-09-06
+  lastRelease: 2026-09-06
+popularity:
+  star: 1482
+  watcher: 8
+  fork: 81
+  release: 379
+  contributor: 57
+  pullRequest: 142
+  issue: 697
+language:
+  Rust: 15958238
+  Python: 140623
+  JavaScript: 35079
+  Shell: 34647
+  Makefile: 27844
+  TypeScript: 9713
+  Dockerfile: 3042
+  HTML: 2317
+  Tape: 1093
+  Go Template: 328
+totalBytes: 16212924
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 15
+    mergedPR: 6
+    openPR: 6
+    closedIssue: 28
+    openIssue: 11
+    commit: 157
+  last60d:
+    since: 2026-07-09
+    release: 39
+    mergedPR: 36
+    openPR: 6
+    closedIssue: 82
+    openIssue: 13
+    commit: 428
+  last90d:
+    since: 2026-06-09
+    release: 57
+    mergedPR: 53
+    openPR: 6
+    closedIssue: 113
+    openIssue: 13
+    commit: 577
+  last180d:
+    since: 2026-03-11
+    release: 100
+    mergedPR: 79
+    openPR: 6
+    closedIssue: 216
+    openIssue: 13
+    commit: 1172
+  last360d:
+    since: 2025-09-12
+    release: 100
+    mergedPR: 116
+    openPR: 6
+    closedIssue: 600
+    openIssue: 13
+    commit: 2619
+  last720d:
+    since: 2024-09-17
+    release: 100
+    mergedPR: 117
+    openPR: 6
+    closedIssue: 684
+    openIssue: 13
+    commit: 3373
+total:
+  release: 379
+  mergedPR: 117
+  openPR: 6
+  closedIssue: 684
+  openIssue: 13
+  commit: 3373
+---
+path: /home/runner/.x-repo/github.com/rvben/rumdl
+collectedAt: 2026-09-07T03:55:27Z
+loc:
+  Rust:
+    code: 316530
+    comments: 34772
+    blanks: 48784
+    files: 630
+  Yaml:
+    code: 9317
+    comments: 36
+    blanks: 4
+    files: 2
+  Python:
+    code: 3127
+    comments: 154
+    blanks: 522
+    files: 18
+  Svg:
+    code: 2579
+    comments: 55
+    blanks: 11
+    files: 9
+  Json:
+    code: 2423
+    comments: 0
+    blanks: 0
+    files: 13
+  Css:
+    code: 1733
+    comments: 4
+    blanks: 311
+    files: 1
+  JavaScript:
+    code: 1083
+    comments: 4
+    blanks: 97
+    files: 6
+  Sh:
+    code: 767
+    comments: 171
+    blanks: 146
+    files: 12
+  Toml:
+    code: 477
+    comments: 84
+    blanks: 94
+    files: 10
+  Makefile:
+    code: 428
+    comments: 135
+    blanks: 103
+    files: 1
+  Dockerfile:
+    code: 33
+    comments: 23
+    blanks: 13
+    files: 1
+  Html:
+    code: 29
+    comments: 0
+    blanks: 1
+    files: 1
+  Autoconf:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 18261
+    blanks: 8046
+    files: 141
+  Text:
+    code: 0
+    comments: 208
+    blanks: 50
+    files: 6
+total:
+  code: 341012
+  comments: 73829
+  blanks: 61506
+  files: 852
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T03:55:35+00:00
+  platform:
+    darwin/arm64:
+      name:  rumdl-v0.2.67-aarch64-apple-darwin.tar.gz
+      url:   https://github.com/rvben/rumdl/releases/download/v0.2.67/rumdl-v0.2.67-aarch64-apple-darwin.tar.gz
+      size:  6013970
+      score: 45
+    darwin/amd64:
+      name:  rumdl-v0.2.67-x86_64-apple-darwin.tar.gz
+      url:   https://github.com/rvben/rumdl/releases/download/v0.2.67/rumdl-v0.2.67-x86_64-apple-darwin.tar.gz
+      size:  6473207
+      score: 45
+    linux/arm64:
+      name:  rumdl-v0.2.67-aarch64-unknown-linux-musl.tar.gz
+      url:   https://github.com/rvben/rumdl/releases/download/v0.2.67/rumdl-v0.2.67-aarch64-unknown-linux-musl.tar.gz
+      size:  6126443
+      score: 45
+    linux/amd64:
+      name:  rumdl-v0.2.67-x86_64-unknown-linux-musl.tar.gz
+      url:   https://github.com/rvben/rumdl/releases/download/v0.2.67/rumdl-v0.2.67-x86_64-unknown-linux-musl.tar.gz
+      size:  6629865
+      score: 45
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  rumdl-v0.2.67-x86_64-pc-windows-msvc.zip
+      url:   https://github.com/rvben/rumdl/releases/download/v0.2.67/rumdl-v0.2.67-x86_64-pc-windows-msvc.zip
+      size:  6527604
+      score: 45
