@@ -5,7 +5,7 @@ about:
   head: 5606c5d
   archived: false
   latestVersion: "v0.2.68"
-  collectedAt: 2026-09-08T01:33:20Z
+  collectedAt: 2026-09-08T03:57:26Z
 timeline:
   created: 2025-02-28
   lastCommit: 2026-09-07
@@ -17,7 +17,7 @@ popularity:
   release: 380
   contributor: 57
   pullRequest: 142
-  issue: 698
+  issue: 699
 language:
   Rust: 15989480
   Python: 140623
@@ -37,7 +37,7 @@ recent:
     mergedPR: 5
     openPR: 6
     closedIssue: 27
-    openIssue: 12
+    openIssue: 13
     commit: 161
   last60d:
     since: 2026-07-10
@@ -45,7 +45,7 @@ recent:
     mergedPR: 36
     openPR: 6
     closedIssue: 82
-    openIssue: 14
+    openIssue: 15
     commit: 432
   last90d:
     since: 2026-06-10
@@ -53,7 +53,7 @@ recent:
     mergedPR: 53
     openPR: 6
     closedIssue: 113
-    openIssue: 14
+    openIssue: 15
     commit: 581
   last180d:
     since: 2026-03-12
@@ -61,7 +61,7 @@ recent:
     mergedPR: 79
     openPR: 6
     closedIssue: 214
-    openIssue: 14
+    openIssue: 15
     commit: 1176
   last360d:
     since: 2025-09-13
@@ -69,7 +69,7 @@ recent:
     mergedPR: 116
     openPR: 6
     closedIssue: 600
-    openIssue: 14
+    openIssue: 15
     commit: 2623
   last720d:
     since: 2024-09-18
@@ -77,18 +77,18 @@ recent:
     mergedPR: 117
     openPR: 6
     closedIssue: 684
-    openIssue: 14
+    openIssue: 15
     commit: 3377
 total:
   release: 380
   mergedPR: 117
   openPR: 6
   closedIssue: 684
-  openIssue: 14
+  openIssue: 15
   commit: 3377
 ---
 path: /home/runner/.x-repo/github.com/rvben/rumdl
-collectedAt: 2026-09-08T01:33:24Z
+collectedAt: 2026-09-08T03:57:32Z
 loc:
   Rust:
     code: 317248
