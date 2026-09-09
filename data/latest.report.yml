@@ -2,29 +2,29 @@ about:
   description: "Fast Markdown linter and formatter written in Rust"
   license: MIT
   homepage: 
-  head: 993b5b1
+  head: 23e6983
   archived: false
   latestVersion: "v0.2.69"
   latestRelease: "v0.2.69"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:02:59Z
+  collectedAt: 2026-09-09T18:21:59Z
 timeline:
   created: 2025-02-28
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-08
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
   star: 1490
   watcher: 8
-  fork: 83
+  fork: 84
   release: 381
-  contributor: 57
-  pullRequest: 143
-  issue: 699
+  contributor: 58
+  pullRequest: 144
+  issue: 703
 language:
-  Rust: 16015191
-  Python: 140623
+  Rust: 16031212
+  Python: 142912
   JavaScript: 35079
   Shell: 34647
   Makefile: 27844
@@ -33,71 +33,71 @@ language:
   HTML: 2317
   Tape: 1093
   Go Template: 328
-totalBytes: 16269877
+totalBytes: 16288187
 recent:
   last30d:
     since: 2026-08-10
     release: 17
-    mergedPR: 5
-    openPR: 7
+    mergedPR: 7
+    openPR: 6
     closedIssue: 23
-    openIssue: 13
-    commit: 167
+    openIssue: 17
+    commit: 177
   last60d:
     since: 2026-07-11
     release: 39
-    mergedPR: 33
-    openPR: 7
+    mergedPR: 35
+    openPR: 6
     closedIssue: 83
-    openIssue: 14
-    commit: 438
+    openIssue: 18
+    commit: 448
   last90d:
     since: 2026-06-11
     release: 57
-    mergedPR: 53
-    openPR: 7
+    mergedPR: 55
+    openPR: 6
     closedIssue: 110
-    openIssue: 14
-    commit: 587
+    openIssue: 18
+    commit: 597
   last180d:
     since: 2026-03-13
     release: 100
-    mergedPR: 79
-    openPR: 7
+    mergedPR: 81
+    openPR: 6
     closedIssue: 210
-    openIssue: 14
-    commit: 1182
+    openIssue: 18
+    commit: 1192
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 116
-    openPR: 7
+    mergedPR: 118
+    openPR: 6
     closedIssue: 601
-    openIssue: 14
-    commit: 2629
+    openIssue: 18
+    commit: 2639
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 117
-    openPR: 7
+    mergedPR: 119
+    openPR: 6
     closedIssue: 685
-    openIssue: 14
-    commit: 3383
+    openIssue: 18
+    commit: 3393
 total:
   release: 381
-  mergedPR: 117
-  openPR: 7
+  mergedPR: 119
+  openPR: 6
   closedIssue: 685
-  openIssue: 14
-  commit: 3383
+  openIssue: 18
+  commit: 3393
 ---
 path: /home/runner/.x-repo/github.com/rvben/rumdl
-collectedAt: 2026-09-09T04:03:05Z
+collectedAt: 2026-09-09T18:22:06Z
 loc:
   Rust:
-    code: 317769
-    comments: 34773
-    blanks: 48831
+    code: 318038
+    comments: 34775
+    blanks: 48849
     files: 634
   Yaml:
     code: 9317
@@ -105,9 +105,9 @@ loc:
     blanks: 4
     files: 2
   Python:
-    code: 3127
-    comments: 154
-    blanks: 522
+    code: 3163
+    comments: 158
+    blanks: 524
     files: 18
   Svg:
     code: 2579
@@ -161,8 +161,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 18310
-    blanks: 8063
+    comments: 18321
+    blanks: 8066
     files: 141
   Text:
     code: 0
@@ -170,11 +170,11 @@ loc:
     blanks: 50
     files: 6
 total:
-  code: 342254
-  comments: 73902
-  blanks: 61572
+  code: 342558
+  comments: 73936
+  blanks: 61598
   files: 856
 ---
 
 ---
-{"id":385059578,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOBOm5M4W84r6","tag_name":"v0.2.69","target_commitish":"main","name":"v0.2.69","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-08T20:36:18Z","updated_at":"2026-09-08T21:00:06Z","published_at":"2026-09-08T21:00:06Z","assets":[{"id":551300424,"node_id":"RA_kwDOOBOm5M4g3C1I","name":"rumdl-v0.2.69-aarch64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":6424685,"digest":"sha256:50dfbf4ead730afc39f2a42298277e6e3389dfb44b62a061155724afdd97c270","download_count":45,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:06Z"},{"id":551300429,"node_id":"RA_kwDOOBOm5M4g3C1N","name":"rumdl-v0.2.69-aarch64-apple-darwin.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":108,"digest":"sha256:5be9a805061c829816719144c5b7b1b03b5bd0f5310ad3f25b23118427348132","download_count":2,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:05Z"},{"id":551300426,"node_id":"RA_kwDOOBOm5M4g3C1K","name":"rumdl-v0.2.69-aarch64-unknown-linux-gnu.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":6550498,"digest":"sha256:0b50c81d334fd056cbc9eddf3343f3dc373d19b9351021e1a4c720d5684083c2","download_count":8,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:06Z"},{"id":551300425,"node_id":"RA_kwDOOBOm5M4g3C1J","name":"rumdl-v0.2.69-aarch64-unknown-linux-gnu.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":113,"digest":"sha256:e7adddfaf56e223fb3f157e6051985438877396453b11f545f55ff7ad0d5d5f2","download_count":3,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:05Z"},{"id":551300431,"node_id":"RA_kwDOOBOm5M4g3C1P","name":"rumdl-v0.2.69-aarch64-unknown-linux-musl.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":6521706,"digest":"sha256:2ef940737a4bc4ad32a5c2262dedd5c87b9600e8da0d6f68dab690edb2590fb6","download_count":7,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:06Z"},{"id":551300423,"node_id":"RA_kwDOOBOm5M4g3C1H","name":"rumdl-v0.2.69-aarch64-unknown-linux-musl.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":114,"digest":"sha256:93083c42fc9bdab3ed0f54a05570db3f9ef4cd77ce5f61339f86d3f7559eb79a","download_count":3,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:05Z"},{"id":551300433,"node_id":"RA_kwDOOBOm5M4g3C1R","name":"rumdl-v0.2.69-x86_64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":6871799,"digest":"sha256:48668a6d50c34262512aca9ab33c391952d794c975125b45341830db963b2da6","download_count":8,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:06Z"},{"id":551300436,"node_id":"RA_kwDOOBOm5M4g3C1U","name":"rumdl-v0.2.69-x86_64-apple-darwin.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":107,"digest":"sha256:6eb35c097c9c89c835acbda9aaa451d5ee866cc330136aa710f95d977aeea3d8","download_count":3,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:05Z"},{"id":551300435,"node_id":"RA_kwDOOBOm5M4g3C1T","name":"rumdl-v0.2.69-x86_64-pc-windows-msvc.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":6981301,"digest":"sha256:b6c7b655c8cf58ce7f91820414a73ca9ab1056593684bb0afada763bb04959bd","download_count":61,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:06Z"},{"id":551300427,"node_id":"RA_kwDOOBOm5M4g3C1L","name":"rumdl-v0.2.69-x86_64-pc-windows-msvc.zip.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":66,"digest":"sha256:ef1abff6ef6e2003d6ab20f712481ed1d980beacbd6b01ab62bf39f0a7db308d","download_count":19,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:05Z"},{"id":551300434,"node_id":"RA_kwDOOBOm5M4g3C1S","name":"rumdl-v0.2.69-x86_64-unknown-linux-gnu.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":7088941,"digest":"sha256:751da4b8c4e750bdbc8ade05386e626ba113f799113379154f521e9b895acaeb","download_count":155,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:06Z"},{"id":551300432,"node_id":"RA_kwDOOBOm5M4g3C1Q","name":"rumdl-v0.2.69-x86_64-unknown-linux-gnu.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":112,"digest":"sha256:64ac78a8d98267844ce5f16a961b1a49b43b9f9786cad205742b3d2088c4ba65","download_count":5,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:05Z"},{"id":551300428,"node_id":"RA_kwDOOBOm5M4g3C1M","name":"rumdl-v0.2.69-x86_64-unknown-linux-musl.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":7062831,"digest":"sha256:50a8942eaee596fb41341db6c6c9c13ac17285a6a7a0ed33684a88ce77d1b6f3","download_count":104,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:06Z"},{"id":551300421,"node_id":"RA_kwDOOBOm5M4g3C1F","name":"rumdl-v0.2.69-x86_64-unknown-linux-musl.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":113,"digest":"sha256:f5030daf3fc6c540db359464897fc9efa6e948ee774670d91d12367ce284e74a","download_count":87,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:05Z"}],"body":"\n### Fixed\n\n- **MD032**: recognize spaced nested blockquotes ([974540f](https://github.com/rvben/rumdl/commit/974540f2af6b72d48ff2451d86f3c232a278baca))\n- **MD032**: separate lists from standalone code fences ([e335c58](https://github.com/rvben/rumdl/commit/e335c588257c604e67eb81313621ff275d4438e2))\n- **mdx**: avoid parser panic on malformed Setext headings ([5e4a387](https://github.com/rvben/rumdl/commit/5e4a387e7360f6f3f8bd3de4403276da30d5fc80))\n- preserve markdown containing merge conflicts ([8aabd3d](https://github.com/rvben/rumdl/commit/8aabd3d00cb628ae9bbdcce623daa27396c3b3ef))\n- **deps**: remove unmaintained paste and atomic-polyfill ([e2ab5cb](https://github.com/rvben/rumdl/commit/e2ab5cb9f05023b865cca1560e6d6df45a62313a))\n\n\n## Downloads\n\n| File | Platform | Checksum |\n|------|----------|----------|\n| [rumdl-v0.2.69-x86_64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-unknown-linux-gnu.tar.gz) | Linux x86_64 | [checksum](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-unknown-linux-gnu.tar.gz.sha256) |\n| [rumdl-v0.2.69-x86_64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-unknown-linux-musl.tar.gz) | Linux x86_64 (musl) | [checksum](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-unknown-linux-musl.tar.gz.sha256) |\n| [rumdl-v0.2.69-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-aarch64-unknown-linux-gnu.tar.gz) | Linux ARM64 | [checksum](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-aarch64-unknown-linux-gnu.tar.gz.sha256) |\n| [rumdl-v0.2.69-aarch64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-aarch64-unknown-linux-musl.tar.gz) | Linux ARM64 (musl) | [checksum](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-aarch64-unknown-linux-musl.tar.gz.sha256) |\n| [rumdl-v0.2.69-x86_64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-apple-darwin.tar.gz) | macOS x86_64 | [checksum](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-apple-darwin.tar.gz.sha256) |\n| [rumdl-v0.2.69-aarch64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-aarch64-apple-darwin.tar.gz) | macOS ARM64 (Apple Silicon) | [checksum](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-aarch64-apple-darwin.tar.gz.sha256) |\n| [rumdl-v0.2.69-x86_64-pc-windows-msvc.zip](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-pc-windows-msvc.zip) | Windows x86_64 | [checksum](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-pc-windows-msvc.zip.sha256) |\n\n## Installation\n\n### Using uv (Recommended)\n```bash\nuv tool install rumdl\n```\n\n### Using pip\n```bash\npip install rumdl\n```\n\n### Using pipx\n```bash\npipx install rumdl\n```\n\n### Direct Download\nDownload the appropriate binary for your platform from the table above, extract it, and add it to your PATH.\n"}
+{"id":385059578,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOBOm5M4W84r6","tag_name":"v0.2.69","target_commitish":"main","name":"v0.2.69","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-08T20:36:18Z","updated_at":"2026-09-08T21:00:06Z","published_at":"2026-09-08T21:00:06Z","assets":[{"id":551300424,"node_id":"RA_kwDOOBOm5M4g3C1I","name":"rumdl-v0.2.69-aarch64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":6424685,"digest":"sha256:50dfbf4ead730afc39f2a42298277e6e3389dfb44b62a061155724afdd97c270","download_count":103,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:06Z"},{"id":551300429,"node_id":"RA_kwDOOBOm5M4g3C1N","name":"rumdl-v0.2.69-aarch64-apple-darwin.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":108,"digest":"sha256:5be9a805061c829816719144c5b7b1b03b5bd0f5310ad3f25b23118427348132","download_count":2,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:05Z"},{"id":551300426,"node_id":"RA_kwDOOBOm5M4g3C1K","name":"rumdl-v0.2.69-aarch64-unknown-linux-gnu.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":6550498,"digest":"sha256:0b50c81d334fd056cbc9eddf3343f3dc373d19b9351021e1a4c720d5684083c2","download_count":13,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:06Z"},{"id":551300425,"node_id":"RA_kwDOOBOm5M4g3C1J","name":"rumdl-v0.2.69-aarch64-unknown-linux-gnu.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":113,"digest":"sha256:e7adddfaf56e223fb3f157e6051985438877396453b11f545f55ff7ad0d5d5f2","download_count":4,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:05Z"},{"id":551300431,"node_id":"RA_kwDOOBOm5M4g3C1P","name":"rumdl-v0.2.69-aarch64-unknown-linux-musl.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":6521706,"digest":"sha256:2ef940737a4bc4ad32a5c2262dedd5c87b9600e8da0d6f68dab690edb2590fb6","download_count":14,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:06Z"},{"id":551300423,"node_id":"RA_kwDOOBOm5M4g3C1H","name":"rumdl-v0.2.69-aarch64-unknown-linux-musl.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":114,"digest":"sha256:93083c42fc9bdab3ed0f54a05570db3f9ef4cd77ce5f61339f86d3f7559eb79a","download_count":4,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:05Z"},{"id":551300433,"node_id":"RA_kwDOOBOm5M4g3C1R","name":"rumdl-v0.2.69-x86_64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":6871799,"digest":"sha256:48668a6d50c34262512aca9ab33c391952d794c975125b45341830db963b2da6","download_count":14,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:06Z"},{"id":551300436,"node_id":"RA_kwDOOBOm5M4g3C1U","name":"rumdl-v0.2.69-x86_64-apple-darwin.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":107,"digest":"sha256:6eb35c097c9c89c835acbda9aaa451d5ee866cc330136aa710f95d977aeea3d8","download_count":3,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:05Z"},{"id":551300435,"node_id":"RA_kwDOOBOm5M4g3C1T","name":"rumdl-v0.2.69-x86_64-pc-windows-msvc.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":6981301,"digest":"sha256:b6c7b655c8cf58ce7f91820414a73ca9ab1056593684bb0afada763bb04959bd","download_count":127,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:06Z"},{"id":551300427,"node_id":"RA_kwDOOBOm5M4g3C1L","name":"rumdl-v0.2.69-x86_64-pc-windows-msvc.zip.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":66,"digest":"sha256:ef1abff6ef6e2003d6ab20f712481ed1d980beacbd6b01ab62bf39f0a7db308d","download_count":20,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:05Z"},{"id":551300434,"node_id":"RA_kwDOOBOm5M4g3C1S","name":"rumdl-v0.2.69-x86_64-unknown-linux-gnu.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":7088941,"digest":"sha256:751da4b8c4e750bdbc8ade05386e626ba113f799113379154f521e9b895acaeb","download_count":423,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:06Z"},{"id":551300432,"node_id":"RA_kwDOOBOm5M4g3C1Q","name":"rumdl-v0.2.69-x86_64-unknown-linux-gnu.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":112,"digest":"sha256:64ac78a8d98267844ce5f16a961b1a49b43b9f9786cad205742b3d2088c4ba65","download_count":6,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:05Z"},{"id":551300428,"node_id":"RA_kwDOOBOm5M4g3C1M","name":"rumdl-v0.2.69-x86_64-unknown-linux-musl.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":7062831,"digest":"sha256:50a8942eaee596fb41341db6c6c9c13ac17285a6a7a0ed33684a88ce77d1b6f3","download_count":266,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:06Z"},{"id":551300421,"node_id":"RA_kwDOOBOm5M4g3C1F","name":"rumdl-v0.2.69-x86_64-unknown-linux-musl.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":113,"digest":"sha256:f5030daf3fc6c540db359464897fc9efa6e948ee774670d91d12367ce284e74a","download_count":207,"created_at":"2026-09-08T21:00:05Z","updated_at":"2026-09-08T21:00:05Z"}],"body":"\n### Fixed\n\n- **MD032**: recognize spaced nested blockquotes ([974540f](https://github.com/rvben/rumdl/commit/974540f2af6b72d48ff2451d86f3c232a278baca))\n- **MD032**: separate lists from standalone code fences ([e335c58](https://github.com/rvben/rumdl/commit/e335c588257c604e67eb81313621ff275d4438e2))\n- **mdx**: avoid parser panic on malformed Setext headings ([5e4a387](https://github.com/rvben/rumdl/commit/5e4a387e7360f6f3f8bd3de4403276da30d5fc80))\n- preserve markdown containing merge conflicts ([8aabd3d](https://github.com/rvben/rumdl/commit/8aabd3d00cb628ae9bbdcce623daa27396c3b3ef))\n- **deps**: remove unmaintained paste and atomic-polyfill ([e2ab5cb](https://github.com/rvben/rumdl/commit/e2ab5cb9f05023b865cca1560e6d6df45a62313a))\n\n\n## Downloads\n\n| File | Platform | Checksum |\n|------|----------|----------|\n| [rumdl-v0.2.69-x86_64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-unknown-linux-gnu.tar.gz) | Linux x86_64 | [checksum](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-unknown-linux-gnu.tar.gz.sha256) |\n| [rumdl-v0.2.69-x86_64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-unknown-linux-musl.tar.gz) | Linux x86_64 (musl) | [checksum](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-unknown-linux-musl.tar.gz.sha256) |\n| [rumdl-v0.2.69-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-aarch64-unknown-linux-gnu.tar.gz) | Linux ARM64 | [checksum](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-aarch64-unknown-linux-gnu.tar.gz.sha256) |\n| [rumdl-v0.2.69-aarch64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-aarch64-unknown-linux-musl.tar.gz) | Linux ARM64 (musl) | [checksum](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-aarch64-unknown-linux-musl.tar.gz.sha256) |\n| [rumdl-v0.2.69-x86_64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-apple-darwin.tar.gz) | macOS x86_64 | [checksum](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-apple-darwin.tar.gz.sha256) |\n| [rumdl-v0.2.69-aarch64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-aarch64-apple-darwin.tar.gz) | macOS ARM64 (Apple Silicon) | [checksum](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-aarch64-apple-darwin.tar.gz.sha256) |\n| [rumdl-v0.2.69-x86_64-pc-windows-msvc.zip](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-pc-windows-msvc.zip) | Windows x86_64 | [checksum](https://github.com/rvben/rumdl/releases/download/v0.2.69/rumdl-v0.2.69-x86_64-pc-windows-msvc.zip.sha256) |\n\n## Installation\n\n### Using uv (Recommended)\n```bash\nuv tool install rumdl\n```\n\n### Using pip\n```bash\npip install rumdl\n```\n\n### Using pipx\n```bash\npipx install rumdl\n```\n\n### Direct Download\nDownload the appropriate binary for your platform from the table above, extract it, and add it to your PATH.\n"}

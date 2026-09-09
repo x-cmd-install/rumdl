@@ -2,29 +2,29 @@ about:
   description: "Fast Markdown linter and formatter written in Rust"
   license: MIT
   homepage: 
-  head: 993b5b1
+  head: 23e6983
   archived: false
   latestVersion: "v0.2.69"
   latestRelease: "v0.2.69"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:02:59Z
+  collectedAt: 2026-09-09T18:21:59Z
 timeline:
   created: 2025-02-28
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-08
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
   star: 1490
   watcher: 8
-  fork: 83
+  fork: 84
   release: 381
-  contributor: 57
-  pullRequest: 143
-  issue: 699
+  contributor: 58
+  pullRequest: 144
+  issue: 703
 language:
-  Rust: 16015191
-  Python: 140623
+  Rust: 16031212
+  Python: 142912
   JavaScript: 35079
   Shell: 34647
   Makefile: 27844
@@ -33,71 +33,71 @@ language:
   HTML: 2317
   Tape: 1093
   Go Template: 328
-totalBytes: 16269877
+totalBytes: 16288187
 recent:
   last30d:
     since: 2026-08-10
     release: 17
-    mergedPR: 5
-    openPR: 7
+    mergedPR: 7
+    openPR: 6
     closedIssue: 23
-    openIssue: 13
-    commit: 167
+    openIssue: 17
+    commit: 177
   last60d:
     since: 2026-07-11
     release: 39
-    mergedPR: 33
-    openPR: 7
+    mergedPR: 35
+    openPR: 6
     closedIssue: 83
-    openIssue: 14
-    commit: 438
+    openIssue: 18
+    commit: 448
   last90d:
     since: 2026-06-11
     release: 57
-    mergedPR: 53
-    openPR: 7
+    mergedPR: 55
+    openPR: 6
     closedIssue: 110
-    openIssue: 14
-    commit: 587
+    openIssue: 18
+    commit: 597
   last180d:
     since: 2026-03-13
     release: 100
-    mergedPR: 79
-    openPR: 7
+    mergedPR: 81
+    openPR: 6
     closedIssue: 210
-    openIssue: 14
-    commit: 1182
+    openIssue: 18
+    commit: 1192
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 116
-    openPR: 7
+    mergedPR: 118
+    openPR: 6
     closedIssue: 601
-    openIssue: 14
-    commit: 2629
+    openIssue: 18
+    commit: 2639
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 117
-    openPR: 7
+    mergedPR: 119
+    openPR: 6
     closedIssue: 685
-    openIssue: 14
-    commit: 3383
+    openIssue: 18
+    commit: 3393
 total:
   release: 381
-  mergedPR: 117
-  openPR: 7
+  mergedPR: 119
+  openPR: 6
   closedIssue: 685
-  openIssue: 14
-  commit: 3383
+  openIssue: 18
+  commit: 3393
 ---
 path: /home/runner/.x-repo/github.com/rvben/rumdl
-collectedAt: 2026-09-09T04:03:05Z
+collectedAt: 2026-09-09T18:22:06Z
 loc:
   Rust:
-    code: 317769
-    comments: 34773
-    blanks: 48831
+    code: 318038
+    comments: 34775
+    blanks: 48849
     files: 634
   Yaml:
     code: 9317
@@ -105,9 +105,9 @@ loc:
     blanks: 4
     files: 2
   Python:
-    code: 3127
-    comments: 154
-    blanks: 522
+    code: 3163
+    comments: 158
+    blanks: 524
     files: 18
   Svg:
     code: 2579
@@ -161,8 +161,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 18310
-    blanks: 8063
+    comments: 18321
+    blanks: 8066
     files: 141
   Text:
     code: 0
@@ -170,9 +170,9 @@ loc:
     blanks: 50
     files: 6
 total:
-  code: 342254
-  comments: 73902
-  blanks: 61572
+  code: 342558
+  comments: 73936
+  blanks: 61598
   files: 856
 ---
 
