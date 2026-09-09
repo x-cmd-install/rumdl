@@ -1,0 +1,179 @@
+about:
+  description: "Fast Markdown linter and formatter written in Rust"
+  license: MIT
+  homepage: 
+  head: 993b5b1
+  archived: false
+  latestVersion: "v0.2.69"
+  latestRelease: "v0.2.69"
+  latestPrerelease: ""
+  collectedAt: 2026-09-09T04:02:59Z
+timeline:
+  created: 2025-02-28
+  lastCommit: 2026-09-08
+  lastVersion: 2026-09-08
+  lastRelease: 2026-09-08
+  lastPrerelease: 
+popularity:
+  star: 1490
+  watcher: 8
+  fork: 83
+  release: 381
+  contributor: 57
+  pullRequest: 143
+  issue: 699
+language:
+  Rust: 16015191
+  Python: 140623
+  JavaScript: 35079
+  Shell: 34647
+  Makefile: 27844
+  TypeScript: 9713
+  Dockerfile: 3042
+  HTML: 2317
+  Tape: 1093
+  Go Template: 328
+totalBytes: 16269877
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 17
+    mergedPR: 5
+    openPR: 7
+    closedIssue: 23
+    openIssue: 13
+    commit: 167
+  last60d:
+    since: 2026-07-11
+    release: 39
+    mergedPR: 33
+    openPR: 7
+    closedIssue: 83
+    openIssue: 14
+    commit: 438
+  last90d:
+    since: 2026-06-11
+    release: 57
+    mergedPR: 53
+    openPR: 7
+    closedIssue: 110
+    openIssue: 14
+    commit: 587
+  last180d:
+    since: 2026-03-13
+    release: 100
+    mergedPR: 79
+    openPR: 7
+    closedIssue: 210
+    openIssue: 14
+    commit: 1182
+  last360d:
+    since: 2025-09-14
+    release: 100
+    mergedPR: 116
+    openPR: 7
+    closedIssue: 601
+    openIssue: 14
+    commit: 2629
+  last720d:
+    since: 2024-09-19
+    release: 100
+    mergedPR: 117
+    openPR: 7
+    closedIssue: 685
+    openIssue: 14
+    commit: 3383
+total:
+  release: 381
+  mergedPR: 117
+  openPR: 7
+  closedIssue: 685
+  openIssue: 14
+  commit: 3383
+---
+path: /home/runner/.x-repo/github.com/rvben/rumdl
+collectedAt: 2026-09-09T04:03:05Z
+loc:
+  Rust:
+    code: 317769
+    comments: 34773
+    blanks: 48831
+    files: 634
+  Yaml:
+    code: 9317
+    comments: 36
+    blanks: 4
+    files: 2
+  Python:
+    code: 3127
+    comments: 154
+    blanks: 522
+    files: 18
+  Svg:
+    code: 2579
+    comments: 55
+    blanks: 11
+    files: 9
+  Json:
+    code: 2423
+    comments: 0
+    blanks: 0
+    files: 13
+  Css:
+    code: 1733
+    comments: 4
+    blanks: 311
+    files: 1
+  JavaScript:
+    code: 1083
+    comments: 4
+    blanks: 97
+    files: 6
+  Sh:
+    code: 767
+    comments: 171
+    blanks: 146
+    files: 12
+  Toml:
+    code: 480
+    comments: 86
+    blanks: 94
+    files: 10
+  Makefile:
+    code: 428
+    comments: 135
+    blanks: 103
+    files: 1
+  Dockerfile:
+    code: 33
+    comments: 23
+    blanks: 13
+    files: 1
+  Html:
+    code: 29
+    comments: 0
+    blanks: 1
+    files: 1
+  Autoconf:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 18310
+    blanks: 8063
+    files: 141
+  Text:
+    code: 0
+    comments: 209
+    blanks: 50
+    files: 6
+total:
+  code: 342254
+  comments: 73902
+  blanks: 61572
+  files: 856
+---
+
+---
