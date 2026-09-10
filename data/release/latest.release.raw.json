@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6410067,
       "digest": "sha256:bf3b741c84b472a85a1188f6661563e56da4c86150b6730b18fa3fac7adbdf43",
-      "download_count": 13,
+      "download_count": 19,
       "created_at": "2026-09-10T19:28:57Z",
       "updated_at": "2026-09-10T19:28:58Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.2.71/rumdl-v0.2.71-aarch64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6522938,
       "digest": "sha256:016d88a70e5547975efc7933dbe5fb14c07e926ac1724b9fd46adb69cd375fca",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-09-10T19:28:57Z",
       "updated_at": "2026-09-10T19:28:58Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.2.71/rumdl-v0.2.71-aarch64-unknown-linux-musl.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6997490,
       "digest": "sha256:161ce75171f49ca37b51dcf887df426938d1b5ff569ca3733b5791d6ce247cc7",
-      "download_count": 14,
+      "download_count": 21,
       "created_at": "2026-09-10T19:28:57Z",
       "updated_at": "2026-09-10T19:28:57Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.2.71/rumdl-v0.2.71-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 7072801,
       "digest": "sha256:0df534b2f3066318973a8f25862f5b6b1dd2234d76e42fc5e03374dd0b61d1ca",
-      "download_count": 37,
+      "download_count": 80,
       "created_at": "2026-09-10T19:28:57Z",
       "updated_at": "2026-09-10T19:28:57Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.2.71/rumdl-v0.2.71-x86_64-unknown-linux-gnu.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 7051155,
       "digest": "sha256:9b72e6a8d5b784758d8e16c8b5fc2be4f7271107fc4c49d8221dcc114720b8c5",
-      "download_count": 29,
+      "download_count": 38,
       "created_at": "2026-09-10T19:28:57Z",
       "updated_at": "2026-09-10T19:28:57Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.2.71/rumdl-v0.2.71-x86_64-unknown-linux-musl.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 113,
       "digest": "sha256:51f84400c2bbb1a8cc7a31fcf741c61c3f6f281f5cd0940c7cc0cd94ba7e3713",
-      "download_count": 24,
+      "download_count": 30,
       "created_at": "2026-09-10T19:28:57Z",
       "updated_at": "2026-09-10T19:28:57Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.2.71/rumdl-v0.2.71-x86_64-unknown-linux-musl.tar.gz.sha256"
