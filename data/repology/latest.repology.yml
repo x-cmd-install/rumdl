@@ -1,55 +1,3 @@
-- repo: homebrew
-  srcname: rumdl
-  visiblename: rumdl
-  version: 0.2.70
-  origversion: null
-  status: outdated
-  summary: Markdown Linter and Formatter written in Rust
-- repo: nix_stable_25_11
-  srcname: rumdl
-  visiblename: rumdl
-  version: 0.1.42
-  origversion: null
-  status: outdated
-  summary: Markdown linter and formatter
-  maintainers:
-    - kachick1@gmail.com
-    - h@nnes.dev
-  licenses:
-    - MIT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: rumdl
-  binname: rumdl
-  visiblename: rumdl
-  version: 0.2.65
-  origversion: 0.2.65-1
-  status: outdated
-  summary: Markdown Linter and Formatter written in Rust
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: rumdl
-  binname: rumdl
-  visiblename: rumdl
-  version: 0.2.65
-  origversion: 0.2.65-1
-  status: outdated
-  summary: Markdown Linter and Formatter written in Rust
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: rumdl
-  binname: rumdl
-  visiblename: rumdl
-  version: 0.2.67
-  origversion: 0.2.67-1
-  status: outdated
-  summary: Markdown Linter and Formatter written in Rust
-  licenses:
-    - MIT
 - repo: alt_p11
   srcname: rumdl
   binnames:
@@ -87,10 +35,62 @@
   srcname: rumdl
   binname: rumdl
   visiblename: rumdl
-  version: 0.2.69
-  origversion: 0.2.69-1
+  version: 0.2.71
+  origversion: 0.2.71-1
+  status: newest
+  summary: Markdown Linter and Formatter written in Rust
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: rumdl
+  visiblename: rumdl
+  version: 0.2.71
+  origversion: null
+  status: newest
+  summary: Markdown Linter and Formatter written in Rust
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: rumdl
+  binname: rumdl
+  visiblename: rumdl
+  version: 0.2.65
+  origversion: 0.2.65-1
   status: outdated
   summary: Markdown Linter and Formatter written in Rust
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: rumdl
+  binname: rumdl
+  visiblename: rumdl
+  version: 0.2.65
+  origversion: 0.2.65-1
+  status: outdated
+  summary: Markdown Linter and Formatter written in Rust
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: rumdl
+  binname: rumdl
+  visiblename: rumdl
+  version: 0.2.67
+  origversion: 0.2.67-1
+  status: outdated
+  summary: Markdown Linter and Formatter written in Rust
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: rumdl
+  visiblename: rumdl
+  version: 0.1.42
+  origversion: null
+  status: outdated
+  summary: Markdown linter and formatter
+  maintainers:
+    - kachick1@gmail.com
+    - h@nnes.dev
   licenses:
     - MIT
 - repo: nix_stable_26_05
