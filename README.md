@@ -47,12 +47,12 @@ Total: **340,881** lines of code across **676** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 18 | 8 | 6 | 28 | 14 | 188 |
-| last60d | 2026-07-12 | 41 | 35 | 6 | 85 | 15 | 459 |
-| 90d | 2026-06-12 | 57 | 56 | 6 | 112 | 15 | 608 |
-| last180d | 2026-03-14 | 100 | 82 | 6 | 215 | 15 | 1203 |
-| 360d | 2025-09-15 | 100 | 119 | 6 | 606 | 15 | 2650 |
-| last720d | 2024-09-20 | 100 | 120 | 6 | 690 | 15 | 3404 |
+| 30d | 2026-08-12 | 17 | 7 | 6 | 26 | 14 | 188 |
+| last60d | 2026-07-13 | 40 | 31 | 6 | 76 | 15 | 459 |
+| 90d | 2026-06-13 | 56 | 56 | 6 | 112 | 15 | 608 |
+| last180d | 2026-03-15 | 100 | 82 | 6 | 213 | 15 | 1203 |
+| 360d | 2025-09-16 | 100 | 119 | 6 | 606 | 15 | 2650 |
+| last720d | 2024-09-21 | 100 | 120 | 6 | 690 | 15 | 3404 |
 
 ## Release assets
 
@@ -75,12 +75,12 @@ Total: **340,881** lines of code across **676** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **18** distros on [repology.org](https://repology.org/project/rumdl). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/rumdl). **3** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.2.69` | ⚠️ outdated |
-| Homebrew | `0.2.70` | ⚠️ outdated |
+| Arch | `0.2.71` | ✅ latest |
+| Homebrew | `0.2.71` | ✅ latest |
 | Nix unstable | `0.2.64` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.2.62` | ⚠️ outdated |
 
@@ -93,4 +93,4 @@ Install metadata for rumdl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:40:53Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T03:58:31Z._
