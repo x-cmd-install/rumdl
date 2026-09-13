@@ -1,15 +1,26 @@
-- repo: nix_stable_25_11
+- repo: parabola
+  subrepo: extra
   srcname: rumdl
+  binname: rumdl
   visiblename: rumdl
+  version: 0.2.67
+  origversion: 0.2.67-1
+  status: outdated
+  summary: Markdown Linter and Formatter written in Rust
+  licenses:
+    - MIT
+- repo: pkgsrc_2026_1
+  srcname: textproc/rumdl
+  binname: rumdl
+  visiblename: textproc/rumdl
   version: 0.1.42
   origversion: null
   status: outdated
-  summary: Markdown linter and formatter
+  summary: Markdown Linter
   maintainers:
-    - kachick1@gmail.com
-    - h@nnes.dev
-  licenses:
-    - MIT
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
 - repo: alt_p11
   srcname: rumdl
   binnames:
@@ -47,9 +58,9 @@
   srcname: rumdl
   binname: rumdl
   visiblename: rumdl
-  version: 0.2.71
-  origversion: 0.2.71-1
-  status: outdated
+  version: 0.2.73
+  origversion: 0.2.73-1
+  status: newest
   summary: Markdown Linter and Formatter written in Rust
   licenses:
     - MIT
@@ -87,10 +98,22 @@
   srcname: rumdl
   binname: rumdl
   visiblename: rumdl
-  version: 0.2.69
-  origversion: 0.2.69-1
+  version: 0.2.71
+  origversion: 0.2.71-1
   status: outdated
   summary: Markdown Linter and Formatter written in Rust
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: rumdl
+  visiblename: rumdl
+  version: 0.1.42
+  origversion: null
+  status: outdated
+  summary: Markdown linter and formatter
+  maintainers:
+    - kachick1@gmail.com
+    - h@nnes.dev
   licenses:
     - MIT
 - repo: nix_stable_26_05
@@ -134,29 +157,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: parabola
-  subrepo: extra
-  srcname: rumdl
-  binname: rumdl
-  visiblename: rumdl
-  version: 0.2.67
-  origversion: 0.2.67-1
-  status: outdated
-  summary: Markdown Linter and Formatter written in Rust
-  licenses:
-    - MIT
-- repo: pkgsrc_2026_1
-  srcname: textproc/rumdl
-  binname: rumdl
-  visiblename: textproc/rumdl
-  version: 0.1.42
-  origversion: null
-  status: outdated
-  summary: Markdown Linter
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - textproc
 - repo: pkgsrc_2026_2
   srcname: textproc/rumdl
   binname: rumdl
@@ -203,9 +203,9 @@
 - repo: wikidata
   srcname: Q138325607
   visiblename: rumdl
-  version: 0.2.72
+  version: 0.2.73
   origversion: null
-  status: outdated
+  status: newest
   summary: linter and formatter for Markdown
   licenses:
     - MIT License
