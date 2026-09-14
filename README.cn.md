@@ -37,22 +37,22 @@ x install rumdl
 
 ## 流行度
 
-- **Star**: 1,496 · **Fork**: 86 · **开放 issue**: 706 · **贡献者**: 58
+- **Star**: 1,499 · **Fork**: 86 · **开放 issue**: 707 · **贡献者**: 58
 
 ## 累计统计
 
-- **发布数**: 385 · **已合并 PR**: 120 · **开放 PR**: 7 · **已关闭 issue**: 690 · **开放 issue**: 16 · **提交数**: 3413
+- **发布数**: 385 · **已合并 PR**: 120 · **开放 PR**: 7 · **已关闭 issue**: 690 · **开放 issue**: 17 · **提交数**: 3413
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 18 | 6 | 7 | 25 | 14 | 160 |
-| last60d | 2026-07-15 | 39 | 29 | 7 | 74 | 16 | 422 |
-| 90d | 2026-06-15 | 57 | 56 | 7 | 110 | 16 | 589 |
-| last180d | 2026-03-17 | 100 | 82 | 7 | 212 | 16 | 1196 |
-| 360d | 2025-09-18 | 100 | 119 | 7 | 606 | 16 | 2629 |
-| last720d | 2024-09-23 | 100 | 120 | 7 | 690 | 16 | 3413 |
+| 30d | 2026-08-15 | 18 | 6 | 7 | 22 | 15 | 160 |
+| last60d | 2026-07-16 | 39 | 29 | 7 | 72 | 17 | 422 |
+| 90d | 2026-06-16 | 56 | 56 | 7 | 107 | 17 | 589 |
+| last180d | 2026-03-18 | 100 | 82 | 7 | 211 | 17 | 1196 |
+| 360d | 2025-09-19 | 100 | 119 | 7 | 603 | 17 | 2629 |
+| last720d | 2024-09-24 | 100 | 120 | 7 | 690 | 17 | 3413 |
 
 ## Release 资产
 
@@ -73,17 +73,6 @@ x install rumdl
 | [rumdl-v0.2.73-x86_64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.73/rumdl-v0.2.73-x86_64-unknown-linux-musl.tar.gz) | 6.7 MiB | `native/linux/x64/musl` |
 | [rumdl-v0.2.73-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.73/rumdl-v0.2.73-x86_64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/rumdl) 上共有 **18** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.2.73` | ✅ latest |
-| Homebrew | `0.2.73` | ✅ latest |
-| Nix unstable | `0.2.64` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.2.62` | ⚠️ outdated |
-
 ## 改进这些数据
 
 rumdl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `rumdl` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -93,4 +82,4 @@ rumdl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T04:11:12Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T04:18:00Z._
