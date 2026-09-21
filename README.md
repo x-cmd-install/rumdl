@@ -14,15 +14,15 @@ x install rumdl
 
 ## Code insight
 
-Total: **351,569** lines of code across **690** files in the top 5 languages.
+Total: **353,037** lines of code across **696** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 329,505 | 35,829 | 49,918 | 648 |
+| Rust | 330,963 | 35,877 | 50,104 | 654 |
 | Yaml | 9,317 | 36 | 4 | 2 |
 | Python | 3,163 | 158 | 524 | 18 |
 | Svg | 2,579 | 55 | 11 | 9 |
-| Json | 2,443 | 0 | 0 | 13 |
+| Json | 2,453 | 0 | 0 | 13 |
 
 ## Source
 
@@ -31,47 +31,47 @@ Total: **351,569** lines of code across **690** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.2.74` (2026-09-18)
-- **Last commit**: 2026-09-18
+- **Latest**: `v0.2.75` (2026-09-20)
+- **Last commit**: 2026-09-20
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 1,509 · **Forks**: 88 · **Open issues**: 730 · **Contributors**: 58
+- **Stars**: 1,511 · **Forks**: 88 · **Open issues**: 731 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 386 · **Merged PRs**: 120 · **Open PRs**: 5 · **Closed issues**: 708 · **Open issues**: 22 · **Commits**: 3454
+- **Releases**: 387 · **Merged PRs**: 122 · **Open PRs**: 3 · **Closed issues**: 709 · **Open issues**: 22 · **Commits**: 3458
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 16 | 5 | 5 | 34 | 21 | 173 |
-| last60d | 2026-07-22 | 35 | 26 | 5 | 78 | 22 | 415 |
-| 90d | 2026-06-22 | 54 | 56 | 5 | 118 | 22 | 580 |
-| last180d | 2026-03-24 | 100 | 80 | 5 | 224 | 22 | 1196 |
-| 360d | 2025-09-25 | 100 | 119 | 5 | 619 | 22 | 2642 |
-| last720d | 2024-09-30 | 100 | 120 | 5 | 708 | 22 | 3454 |
+| 30d | 2026-08-22 | 17 | 7 | 3 | 35 | 21 | 177 |
+| last60d | 2026-07-23 | 35 | 28 | 3 | 77 | 22 | 419 |
+| 90d | 2026-06-23 | 55 | 58 | 3 | 115 | 22 | 584 |
+| last180d | 2026-03-25 | 100 | 82 | 3 | 225 | 22 | 1200 |
+| 360d | 2025-09-26 | 100 | 121 | 3 | 619 | 22 | 2646 |
+| last720d | 2024-10-01 | 100 | 122 | 3 | 709 | 22 | 3458 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [rumdl-v0.2.74-aarch64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.74/rumdl-v0.2.74-aarch64-apple-darwin.tar.gz) | 6.3 MiB | `native/darwin/arm64` |
-| [rumdl-v0.2.74-aarch64-apple-darwin.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.74/rumdl-v0.2.74-aarch64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/arm64` |
-| [rumdl-v0.2.74-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.74/rumdl-v0.2.74-aarch64-unknown-linux-gnu.tar.gz) | 6.5 MiB | `native/linux/arm64/glibc` |
-| [rumdl-v0.2.74-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.74/rumdl-v0.2.74-aarch64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/arm64/glibc` |
-| [rumdl-v0.2.74-aarch64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.74/rumdl-v0.2.74-aarch64-unknown-linux-musl.tar.gz) | 6.4 MiB | `native/linux/arm64/musl` |
-| [rumdl-v0.2.74-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.74/rumdl-v0.2.74-aarch64-unknown-linux-musl.tar.gz.sha256) | 114 B | `native/linux/arm64/musl` |
-| [rumdl-v0.2.74-x86_64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.74/rumdl-v0.2.74-x86_64-apple-darwin.tar.gz) | 6.8 MiB | `native/darwin/x64` |
-| [rumdl-v0.2.74-x86_64-apple-darwin.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.74/rumdl-v0.2.74-x86_64-apple-darwin.tar.gz.sha256) | 107 B | `native/darwin/x64` |
-| [rumdl-v0.2.74-x86_64-pc-windows-msvc.zip](https://github.com/rvben/rumdl/releases/download/v0.2.74/rumdl-v0.2.74-x86_64-pc-windows-msvc.zip) | 6.8 MiB | `native/win/x64` |
-| [rumdl-v0.2.74-x86_64-pc-windows-msvc.zip.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.74/rumdl-v0.2.74-x86_64-pc-windows-msvc.zip.sha256) | 66 B | `native/win/x64` |
-| [rumdl-v0.2.74-x86_64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.74/rumdl-v0.2.74-x86_64-unknown-linux-gnu.tar.gz) | 7.0 MiB | `native/linux/x64/glibc` |
-| [rumdl-v0.2.74-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.74/rumdl-v0.2.74-x86_64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `native/linux/x64/glibc` |
-| [rumdl-v0.2.74-x86_64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.74/rumdl-v0.2.74-x86_64-unknown-linux-musl.tar.gz) | 6.9 MiB | `native/linux/x64/musl` |
-| [rumdl-v0.2.74-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.74/rumdl-v0.2.74-x86_64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/x64/musl` |
+| [rumdl-v0.2.75-aarch64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.75/rumdl-v0.2.75-aarch64-apple-darwin.tar.gz) | 6.3 MiB | `native/darwin/arm64` |
+| [rumdl-v0.2.75-aarch64-apple-darwin.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.75/rumdl-v0.2.75-aarch64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/arm64` |
+| [rumdl-v0.2.75-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.75/rumdl-v0.2.75-aarch64-unknown-linux-gnu.tar.gz) | 6.5 MiB | `native/linux/arm64/glibc` |
+| [rumdl-v0.2.75-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.75/rumdl-v0.2.75-aarch64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/arm64/glibc` |
+| [rumdl-v0.2.75-aarch64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.75/rumdl-v0.2.75-aarch64-unknown-linux-musl.tar.gz) | 6.4 MiB | `native/linux/arm64/musl` |
+| [rumdl-v0.2.75-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.75/rumdl-v0.2.75-aarch64-unknown-linux-musl.tar.gz.sha256) | 114 B | `native/linux/arm64/musl` |
+| [rumdl-v0.2.75-x86_64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.75/rumdl-v0.2.75-x86_64-apple-darwin.tar.gz) | 6.8 MiB | `native/darwin/x64` |
+| [rumdl-v0.2.75-x86_64-apple-darwin.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.75/rumdl-v0.2.75-x86_64-apple-darwin.tar.gz.sha256) | 107 B | `native/darwin/x64` |
+| [rumdl-v0.2.75-x86_64-pc-windows-msvc.zip](https://github.com/rvben/rumdl/releases/download/v0.2.75/rumdl-v0.2.75-x86_64-pc-windows-msvc.zip) | 6.9 MiB | `native/win/x64` |
+| [rumdl-v0.2.75-x86_64-pc-windows-msvc.zip.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.75/rumdl-v0.2.75-x86_64-pc-windows-msvc.zip.sha256) | 66 B | `native/win/x64` |
+| [rumdl-v0.2.75-x86_64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.75/rumdl-v0.2.75-x86_64-unknown-linux-gnu.tar.gz) | 7.0 MiB | `native/linux/x64/glibc` |
+| [rumdl-v0.2.75-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.75/rumdl-v0.2.75-x86_64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `native/linux/x64/glibc` |
+| [rumdl-v0.2.75-x86_64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.75/rumdl-v0.2.75-x86_64-unknown-linux-musl.tar.gz) | 7.0 MiB | `native/linux/x64/musl` |
+| [rumdl-v0.2.75-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.75/rumdl-v0.2.75-x86_64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for rumdl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T04:20:40Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T04:18:10Z._
