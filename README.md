@@ -32,27 +32,27 @@ Total: **356,382** lines of code across **702** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.77` (2026-09-23)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-24
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 1,517 · **Forks**: 88 · **Open issues**: 740 · **Contributors**: 59
+- **Stars**: 1,519 · **Forks**: 88 · **Open issues**: 741 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 389 · **Merged PRs**: 123 · **Open PRs**: 2 · **Closed issues**: 712 · **Open issues**: 28 · **Commits**: 3480
+- **Releases**: 389 · **Merged PRs**: 123 · **Open PRs**: 2 · **Closed issues**: 712 · **Open issues**: 29 · **Commits**: 3481
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 17 | 8 | 2 | 38 | 27 | 199 |
-| last60d | 2026-07-26 | 34 | 28 | 2 | 77 | 28 | 441 |
-| 90d | 2026-06-26 | 54 | 52 | 2 | 115 | 28 | 606 |
-| last180d | 2026-03-28 | 100 | 83 | 2 | 223 | 28 | 1222 |
-| 360d | 2025-09-29 | 100 | 122 | 2 | 620 | 28 | 2668 |
-| last720d | 2024-10-04 | 100 | 123 | 2 | 712 | 28 | 3480 |
+| 30d | 2026-08-26 | 17 | 7 | 2 | 38 | 28 | 200 |
+| last60d | 2026-07-27 | 34 | 26 | 2 | 73 | 29 | 442 |
+| 90d | 2026-06-27 | 54 | 47 | 2 | 115 | 29 | 607 |
+| last180d | 2026-03-29 | 100 | 83 | 2 | 223 | 29 | 1223 |
+| 360d | 2025-09-30 | 100 | 122 | 2 | 616 | 29 | 2669 |
+| last720d | 2024-10-05 | 100 | 123 | 2 | 712 | 29 | 3481 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for rumdl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:06:28Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:20:06Z._
