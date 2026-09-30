@@ -14,11 +14,11 @@ x install rumdl
 
 ## Code insight
 
-Total: **362,146** lines of code across **710** files in the top 5 languages.
+Total: **363,310** lines of code across **713** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 339,302 | 36,384 | 50,870 | 666 |
+| Rust | 340,466 | 36,474 | 50,973 | 669 |
 | Yaml | 9,317 | 36 | 4 | 2 |
 | Python | 3,897 | 182 | 671 | 20 |
 | Svg | 2,579 | 55 | 11 | 9 |
@@ -31,47 +31,47 @@ Total: **362,146** lines of code across **710** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.2.77` (2026-09-23)
-- **Last commit**: 2026-09-28
+- **Latest**: `v0.2.78` (2026-09-29)
+- **Last commit**: 2026-09-29
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 1,535 · **Forks**: 88 · **Open issues**: 743 · **Contributors**: 59
+- **Stars**: 1,540 · **Forks**: 88 · **Open issues**: 745 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 389 · **Merged PRs**: 123 · **Open PRs**: 4 · **Closed issues**: 716 · **Open issues**: 27 · **Commits**: 3554
+- **Releases**: 390 · **Merged PRs**: 123 · **Open PRs**: 4 · **Closed issues**: 722 · **Open issues**: 23 · **Commits**: 3565
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 15 | 6 | 4 | 39 | 24 | 210 |
-| last60d | 2026-07-31 | 31 | 25 | 4 | 71 | 27 | 420 |
-| 90d | 2026-07-01 | 50 | 44 | 4 | 117 | 27 | 651 |
-| last180d | 2026-04-02 | 100 | 80 | 4 | 220 | 27 | 1255 |
-| 360d | 2025-10-04 | 100 | 122 | 4 | 618 | 27 | 2725 |
-| last720d | 2024-10-09 | 100 | 123 | 4 | 716 | 27 | 3554 |
+| 30d | 2026-08-31 | 16 | 6 | 2 | 45 | 19 | 221 |
+| last60d | 2026-08-01 | 31 | 18 | 4 | 77 | 23 | 431 |
+| 90d | 2026-07-02 | 51 | 42 | 4 | 123 | 23 | 662 |
+| last180d | 2026-04-03 | 100 | 80 | 4 | 225 | 23 | 1266 |
+| 360d | 2025-10-05 | 100 | 122 | 4 | 624 | 23 | 2736 |
+| last720d | 2024-10-10 | 100 | 123 | 4 | 722 | 23 | 3565 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [rumdl-v0.2.77-aarch64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.77/rumdl-v0.2.77-aarch64-apple-darwin.tar.gz) | 5.8 MiB | `native/darwin/arm64` |
-| [rumdl-v0.2.77-aarch64-apple-darwin.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.77/rumdl-v0.2.77-aarch64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/arm64` |
-| [rumdl-v0.2.77-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.77/rumdl-v0.2.77-aarch64-unknown-linux-gnu.tar.gz) | 6.1 MiB | `native/linux/arm64/glibc` |
-| [rumdl-v0.2.77-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.77/rumdl-v0.2.77-aarch64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/arm64/glibc` |
-| [rumdl-v0.2.77-aarch64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.77/rumdl-v0.2.77-aarch64-unknown-linux-musl.tar.gz) | 6.1 MiB | `native/linux/arm64/musl` |
-| [rumdl-v0.2.77-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.77/rumdl-v0.2.77-aarch64-unknown-linux-musl.tar.gz.sha256) | 114 B | `native/linux/arm64/musl` |
-| [rumdl-v0.2.77-x86_64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.77/rumdl-v0.2.77-x86_64-apple-darwin.tar.gz) | 6.4 MiB | `native/darwin/x64` |
-| [rumdl-v0.2.77-x86_64-apple-darwin.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.77/rumdl-v0.2.77-x86_64-apple-darwin.tar.gz.sha256) | 107 B | `native/darwin/x64` |
-| [rumdl-v0.2.77-x86_64-pc-windows-msvc.zip](https://github.com/rvben/rumdl/releases/download/v0.2.77/rumdl-v0.2.77-x86_64-pc-windows-msvc.zip) | 6.6 MiB | `native/win/x64` |
-| [rumdl-v0.2.77-x86_64-pc-windows-msvc.zip.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.77/rumdl-v0.2.77-x86_64-pc-windows-msvc.zip.sha256) | 66 B | `native/win/x64` |
-| [rumdl-v0.2.77-x86_64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.77/rumdl-v0.2.77-x86_64-unknown-linux-gnu.tar.gz) | 6.6 MiB | `native/linux/x64/glibc` |
-| [rumdl-v0.2.77-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.77/rumdl-v0.2.77-x86_64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `native/linux/x64/glibc` |
-| [rumdl-v0.2.77-x86_64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.77/rumdl-v0.2.77-x86_64-unknown-linux-musl.tar.gz) | 6.6 MiB | `native/linux/x64/musl` |
-| [rumdl-v0.2.77-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.77/rumdl-v0.2.77-x86_64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/x64/musl` |
+| [rumdl-v0.2.78-aarch64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.78/rumdl-v0.2.78-aarch64-apple-darwin.tar.gz) | 6.0 MiB | `native/darwin/arm64` |
+| [rumdl-v0.2.78-aarch64-apple-darwin.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.78/rumdl-v0.2.78-aarch64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/arm64` |
+| [rumdl-v0.2.78-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.78/rumdl-v0.2.78-aarch64-unknown-linux-gnu.tar.gz) | 6.2 MiB | `native/linux/arm64/glibc` |
+| [rumdl-v0.2.78-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.78/rumdl-v0.2.78-aarch64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/arm64/glibc` |
+| [rumdl-v0.2.78-aarch64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.78/rumdl-v0.2.78-aarch64-unknown-linux-musl.tar.gz) | 6.2 MiB | `native/linux/arm64/musl` |
+| [rumdl-v0.2.78-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.78/rumdl-v0.2.78-aarch64-unknown-linux-musl.tar.gz.sha256) | 114 B | `native/linux/arm64/musl` |
+| [rumdl-v0.2.78-x86_64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.78/rumdl-v0.2.78-x86_64-apple-darwin.tar.gz) | 6.5 MiB | `native/darwin/x64` |
+| [rumdl-v0.2.78-x86_64-apple-darwin.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.78/rumdl-v0.2.78-x86_64-apple-darwin.tar.gz.sha256) | 107 B | `native/darwin/x64` |
+| [rumdl-v0.2.78-x86_64-pc-windows-msvc.zip](https://github.com/rvben/rumdl/releases/download/v0.2.78/rumdl-v0.2.78-x86_64-pc-windows-msvc.zip) | 6.8 MiB | `native/win/x64` |
+| [rumdl-v0.2.78-x86_64-pc-windows-msvc.zip.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.78/rumdl-v0.2.78-x86_64-pc-windows-msvc.zip.sha256) | 66 B | `native/win/x64` |
+| [rumdl-v0.2.78-x86_64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.78/rumdl-v0.2.78-x86_64-unknown-linux-gnu.tar.gz) | 6.8 MiB | `native/linux/x64/glibc` |
+| [rumdl-v0.2.78-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.78/rumdl-v0.2.78-x86_64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `native/linux/x64/glibc` |
+| [rumdl-v0.2.78-x86_64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.2.78/rumdl-v0.2.78-x86_64-unknown-linux-musl.tar.gz) | 6.7 MiB | `native/linux/x64/musl` |
+| [rumdl-v0.2.78-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.2.78/rumdl-v0.2.78-x86_64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for rumdl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:09:51Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T04:57:30Z._
