@@ -14,7 +14,7 @@ x install rumdl
 
 ## Code insight
 
-Total: **363,310** lines of code across **713** files in the top 5 languages.
+Total: **363,321** lines of code across **713** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -32,27 +32,27 @@ Total: **363,310** lines of code across **713** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.78` (2026-09-29)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-09-30
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 1,540 · **Forks**: 88 · **Open issues**: 745 · **Contributors**: 59
+- **Stars**: 1,542 · **Forks**: 88 · **Open issues**: 752 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 390 · **Merged PRs**: 123 · **Open PRs**: 4 · **Closed issues**: 722 · **Open issues**: 23 · **Commits**: 3565
+- **Releases**: 390 · **Merged PRs**: 123 · **Open PRs**: 4 · **Closed issues**: 722 · **Open issues**: 30 · **Commits**: 3566
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 16 | 6 | 2 | 45 | 19 | 221 |
-| last60d | 2026-08-01 | 31 | 18 | 4 | 77 | 23 | 431 |
-| 90d | 2026-07-02 | 51 | 42 | 4 | 123 | 23 | 662 |
-| last180d | 2026-04-03 | 100 | 80 | 4 | 225 | 23 | 1266 |
-| 360d | 2025-10-05 | 100 | 122 | 4 | 624 | 23 | 2736 |
-| last720d | 2024-10-10 | 100 | 123 | 4 | 722 | 23 | 3565 |
+| 30d | 2026-09-01 | 16 | 5 | 2 | 41 | 26 | 222 |
+| last60d | 2026-08-02 | 30 | 17 | 4 | 75 | 30 | 432 |
+| 90d | 2026-07-03 | 51 | 42 | 4 | 122 | 30 | 663 |
+| last180d | 2026-04-04 | 100 | 79 | 4 | 225 | 30 | 1267 |
+| 360d | 2025-10-06 | 100 | 122 | 4 | 624 | 30 | 2737 |
+| last720d | 2024-10-11 | 100 | 123 | 4 | 722 | 30 | 3566 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for rumdl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T04:57:30Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:10:39Z._
