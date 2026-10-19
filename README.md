@@ -14,14 +14,14 @@ x install rumdl
 
 ## Code insight
 
-Total: **437,894** lines of code across **827** files in the top 5 languages.
+Total: **439,321** lines of code across **830** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 413,631 | 38,812 | 55,262 | 778 |
+| Rust | 415,038 | 38,823 | 55,335 | 781 |
 | Yaml | 9,317 | 36 | 4 | 2 |
 | Python | 4,286 | 189 | 727 | 24 |
-| Json | 2,876 | 0 | 0 | 14 |
+| Json | 2,896 | 0 | 0 | 14 |
 | Svg | 2,579 | 55 | 11 | 9 |
 
 ## Source
@@ -32,27 +32,27 @@ Total: **437,894** lines of code across **827** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.0` (2026-10-17)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-18
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 1,590 · **Forks**: 96 · **Open issues**: 782 · **Contributors**: 63
+- **Stars**: 1,592 · **Forks**: 97 · **Open issues**: 782 · **Contributors**: 63
 
 ## Totals (cumulative)
 
-- **Releases**: 392 · **Merged PRs**: 125 · **Open PRs**: 4 · **Closed issues**: 769 · **Open issues**: 13 · **Commits**: 3797
+- **Releases**: 392 · **Merged PRs**: 125 · **Open PRs**: 4 · **Closed issues**: 769 · **Open issues**: 13 · **Commits**: 3802
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 7 | 2 | 2 | 46 | 6 | 313 |
-| last60d | 2026-08-19 | 23 | 11 | 4 | 96 | 12 | 526 |
-| 90d | 2026-07-20 | 43 | 32 | 4 | 146 | 13 | 785 |
-| last180d | 2026-04-21 | 100 | 81 | 4 | 254 | 13 | 1341 |
-| 360d | 2025-10-23 | 100 | 121 | 4 | 652 | 13 | 2817 |
-| last720d | 2024-10-28 | 100 | 125 | 4 | 769 | 13 | 3797 |
+| 30d | 2026-09-19 | 6 | 2 | 2 | 46 | 6 | 318 |
+| last60d | 2026-08-20 | 22 | 11 | 4 | 96 | 12 | 531 |
+| 90d | 2026-07-21 | 42 | 32 | 4 | 143 | 13 | 790 |
+| last180d | 2026-04-22 | 99 | 81 | 4 | 253 | 13 | 1346 |
+| 360d | 2025-10-24 | 100 | 121 | 4 | 652 | 13 | 2822 |
+| last720d | 2024-10-29 | 100 | 125 | 4 | 769 | 13 | 3802 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for rumdl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T03:55:20Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:04:20Z._
