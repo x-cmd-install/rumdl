@@ -14,13 +14,13 @@ x install rumdl
 
 ## 代码洞察
 
-合计: **477,645** 行代码（覆盖前 5 种语言、共 **924** 个文件）。
+合计: **479,654** 行代码（覆盖前 5 种语言、共 **931** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 453,353 | 39,904 | 57,648 | 875 |
+| Rust | 455,271 | 39,926 | 57,733 | 880 |
 | Yaml | 9,317 | 36 | 4 | 2 |
-| Python | 4,286 | 189 | 727 | 24 |
+| Python | 4,514 | 193 | 760 | 26 |
 | Json | 2,896 | 0 | 0 | 14 |
 | Svg | 2,579 | 55 | 11 | 9 |
 
@@ -32,27 +32,27 @@ x install rumdl
 ## 发布
 
 - **最新版本**: `v0.3.0` (2026-10-17)
-- **最近提交**: 2026-10-21
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 1,599 · **Fork**: 93 · **开放 issue**: 786 · **贡献者**: 64
+- **Star**: 1,600 · **Fork**: 93 · **开放 issue**: 786 · **贡献者**: 64
 
 ## 累计统计
 
-- **发布数**: 392 · **已合并 PR**: 126 · **开放 PR**: 3 · **已关闭 issue**: 769 · **开放 issue**: 17 · **提交数**: 3851
+- **发布数**: 392 · **已合并 PR**: 126 · **开放 PR**: 0 · **已关闭 issue**: 769 · **开放 issue**: 17 · **提交数**: 3862
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 5 | 3 | 2 | 40 | 10 | 367 |
-| last60d | 2026-08-23 | 20 | 11 | 3 | 95 | 16 | 580 |
-| 90d | 2026-07-24 | 39 | 31 | 3 | 136 | 17 | 839 |
-| last180d | 2026-04-25 | 96 | 82 | 3 | 248 | 17 | 1395 |
-| 360d | 2025-10-27 | 100 | 122 | 3 | 650 | 17 | 2871 |
-| last720d | 2024-11-01 | 100 | 126 | 3 | 769 | 17 | 3851 |
+| 30d | 2026-09-23 | 5 | 3 | 0 | 36 | 10 | 378 |
+| last60d | 2026-08-24 | 20 | 11 | 0 | 95 | 16 | 591 |
+| 90d | 2026-07-25 | 37 | 31 | 0 | 135 | 17 | 850 |
+| last180d | 2026-04-26 | 95 | 82 | 0 | 247 | 17 | 1406 |
+| 360d | 2025-10-28 | 100 | 122 | 0 | 649 | 17 | 2882 |
+| last720d | 2024-11-02 | 100 | 126 | 0 | 769 | 17 | 3862 |
 
 ## Release 资产
 
@@ -73,6 +73,17 @@ x install rumdl
 | [rumdl-v0.3.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.3.0/rumdl-v0.3.0-x86_64-unknown-linux-musl.tar.gz) | 7.5 MiB | `native/linux/x64/musl` |
 | [rumdl-v0.3.0-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.3.0/rumdl-v0.3.0-x86_64-unknown-linux-musl.tar.gz.sha256) | 112 B | `native/linux/x64/musl` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/rumdl) 上共有 **18** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.2.78` | ⚠️ outdated |
+| Homebrew | `0.3.0` | ✅ latest |
+| Nix unstable | `0.2.79` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.2.79` | ⚠️ outdated |
+
 ## 改进这些数据
 
 rumdl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `rumdl` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -82,4 +93,4 @@ rumdl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:06:33Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:10:11Z._
