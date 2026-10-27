@@ -37,7 +37,7 @@ Total: **480,196** lines of code across **932** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,609 · **Forks**: 93 · **Open issues**: 789 · **Contributors**: 64
+- **Stars**: 1,612 · **Forks**: 93 · **Open issues**: 789 · **Contributors**: 64
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **480,196** lines of code across **932** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 3 | 3 | 0 | 35 | 13 | 259 |
-| last60d | 2026-08-27 | 19 | 9 | 0 | 94 | 19 | 537 |
-| 90d | 2026-07-28 | 37 | 29 | 0 | 129 | 20 | 749 |
-| last180d | 2026-04-29 | 93 | 82 | 0 | 240 | 20 | 1331 |
-| 360d | 2025-10-31 | 100 | 122 | 0 | 645 | 20 | 2834 |
-| last720d | 2024-11-05 | 100 | 126 | 0 | 769 | 20 | 3865 |
+| 30d | 2026-09-27 | 3 | 3 | 0 | 35 | 13 | 259 |
+| last60d | 2026-08-28 | 18 | 9 | 0 | 93 | 19 | 537 |
+| 90d | 2026-07-29 | 35 | 29 | 0 | 127 | 20 | 749 |
+| last180d | 2026-04-30 | 93 | 82 | 0 | 240 | 20 | 1331 |
+| 360d | 2025-11-01 | 100 | 122 | 0 | 645 | 20 | 2834 |
+| last720d | 2024-11-06 | 100 | 126 | 0 | 769 | 20 | 3865 |
 
 ## Release assets
 
@@ -75,14 +75,14 @@ Total: **480,196** lines of code across **932** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **18** distros on [repology.org](https://repology.org/project/rumdl). **5** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/rumdl). **6** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.2.78` | ⚠️ outdated |
 | Homebrew | `0.3.0` | ✅ latest |
 | Nix unstable | `0.2.79` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.2.79` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.3.0` | ✅ latest |
 
 ## Improve this data
 
@@ -93,4 +93,4 @@ Install metadata for rumdl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:08:01Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:27:37Z._
