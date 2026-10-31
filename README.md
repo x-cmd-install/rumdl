@@ -37,22 +37,22 @@ Total: **481,351** lines of code across **936** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,616 · **Forks**: 93 · **Open issues**: 790 · **Contributors**: 64
+- **Stars**: 1,620 · **Forks**: 93 · **Open issues**: 792 · **Contributors**: 64
 
 ## Totals (cumulative)
 
-- **Releases**: 394 · **Merged PRs**: 126 · **Open PRs**: 0 · **Closed issues**: 769 · **Open issues**: 21 · **Commits**: 3876
+- **Releases**: 394 · **Merged PRs**: 126 · **Open PRs**: 0 · **Closed issues**: 782 · **Open issues**: 10 · **Commits**: 3876
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 4 | 2 | 0 | 26 | 12 | 268 |
-| last60d | 2026-08-31 | 20 | 9 | 0 | 91 | 18 | 546 |
-| 90d | 2026-08-01 | 35 | 21 | 0 | 124 | 21 | 758 |
-| last180d | 2026-05-03 | 92 | 78 | 0 | 234 | 21 | 1340 |
-| 360d | 2025-11-04 | 100 | 121 | 0 | 642 | 21 | 2843 |
-| last720d | 2024-11-09 | 100 | 126 | 0 | 769 | 21 | 3876 |
+| 30d | 2026-10-01 | 4 | 2 | 0 | 35 | 5 | 268 |
+| last60d | 2026-09-01 | 20 | 8 | 0 | 100 | 7 | 546 |
+| 90d | 2026-08-02 | 34 | 20 | 0 | 135 | 10 | 758 |
+| last180d | 2026-05-04 | 92 | 78 | 0 | 245 | 10 | 1340 |
+| 360d | 2025-11-05 | 100 | 121 | 0 | 655 | 10 | 2843 |
+| last720d | 2024-11-10 | 100 | 126 | 0 | 782 | 10 | 3876 |
 
 ## Release assets
 
@@ -75,13 +75,13 @@ Total: **481,351** lines of code across **936** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **18** distros on [repology.org](https://repology.org/project/rumdl). **4** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/rumdl). **5** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.2.78` | ⚠️ outdated |
 | Homebrew | `0.3.2` | ✅ latest |
-| Nix unstable | `0.2.79` | ⚠️ outdated |
+| Nix unstable | `0.3.2` | ✅ latest |
 | openSUSE Tumbleweed | `0.3.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -93,4 +93,4 @@ Install metadata for rumdl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:10:17Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T04:55:39Z._
