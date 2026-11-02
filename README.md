@@ -32,27 +32,27 @@ Total: **483,618** lines of code across **941** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.2` (2026-10-28)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-01
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 1,621 · **Forks**: 93 · **Open issues**: 793 · **Contributors**: 64
+- **Stars**: 1,622 · **Forks**: 93 · **Open issues**: 795 · **Contributors**: 64
 
 ## Totals (cumulative)
 
-- **Releases**: 394 · **Merged PRs**: 126 · **Open PRs**: 0 · **Closed issues**: 782 · **Open issues**: 11 · **Commits**: 3889
+- **Releases**: 394 · **Merged PRs**: 126 · **Open PRs**: 0 · **Closed issues**: 782 · **Open issues**: 13 · **Commits**: 3890
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 4 | 2 | 0 | 35 | 6 | 259 |
-| last60d | 2026-09-02 | 20 | 8 | 0 | 99 | 8 | 498 |
-| 90d | 2026-08-03 | 33 | 16 | 0 | 132 | 11 | 699 |
-| last180d | 2026-05-05 | 91 | 78 | 0 | 243 | 11 | 1312 |
-| 360d | 2025-11-06 | 100 | 121 | 0 | 654 | 11 | 2792 |
-| last720d | 2024-11-11 | 100 | 126 | 0 | 782 | 11 | 3889 |
+| 30d | 2026-10-03 | 4 | 2 | 0 | 35 | 8 | 260 |
+| last60d | 2026-09-03 | 19 | 8 | 0 | 96 | 10 | 499 |
+| 90d | 2026-08-04 | 33 | 16 | 0 | 129 | 13 | 700 |
+| last180d | 2026-05-06 | 91 | 74 | 0 | 239 | 13 | 1313 |
+| 360d | 2025-11-07 | 100 | 121 | 0 | 651 | 13 | 2793 |
+| last720d | 2024-11-12 | 100 | 126 | 0 | 782 | 13 | 3890 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for rumdl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T05:23:20Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T05:22:23Z._
