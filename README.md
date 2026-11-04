@@ -37,7 +37,7 @@ Total: **483,618** lines of code across **941** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,623 · **Forks**: 93 · **Open issues**: 795 · **Contributors**: 64
+- **Stars**: 1,627 · **Forks**: 93 · **Open issues**: 795 · **Contributors**: 64
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **483,618** lines of code across **941** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 4 | 2 | 1 | 35 | 8 | 260 |
-| last60d | 2026-09-04 | 18 | 8 | 1 | 90 | 10 | 499 |
-| 90d | 2026-08-05 | 32 | 16 | 1 | 128 | 13 | 700 |
-| last180d | 2026-05-07 | 90 | 72 | 1 | 238 | 13 | 1313 |
-| 360d | 2025-11-08 | 100 | 121 | 1 | 650 | 13 | 2793 |
-| last720d | 2024-11-13 | 100 | 126 | 1 | 782 | 13 | 3890 |
+| 30d | 2026-10-05 | 4 | 2 | 1 | 34 | 8 | 260 |
+| last60d | 2026-09-05 | 17 | 6 | 1 | 89 | 10 | 499 |
+| 90d | 2026-08-06 | 30 | 16 | 1 | 128 | 13 | 700 |
+| last180d | 2026-05-08 | 88 | 70 | 1 | 237 | 13 | 1313 |
+| 360d | 2025-11-09 | 100 | 121 | 1 | 647 | 13 | 2793 |
+| last720d | 2024-11-14 | 100 | 126 | 1 | 782 | 13 | 3890 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for rumdl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:01:37Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T05:41:00Z._
