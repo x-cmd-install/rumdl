@@ -37,22 +37,22 @@ Total: **483,846** lines of code across **941** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,630 · **Forks**: 93 · **Open issues**: 796 · **Contributors**: 64
+- **Stars**: 1,630 · **Forks**: 93 · **Open issues**: 797 · **Contributors**: 64
 
 ## Totals (cumulative)
 
-- **Releases**: 394 · **Merged PRs**: 126 · **Open PRs**: 2 · **Closed issues**: 782 · **Open issues**: 14 · **Commits**: 3894
+- **Releases**: 394 · **Merged PRs**: 126 · **Open PRs**: 2 · **Closed issues**: 782 · **Open issues**: 15 · **Commits**: 3894
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 4 | 2 | 2 | 34 | 7 | 264 |
-| last60d | 2026-09-07 | 15 | 6 | 2 | 87 | 11 | 503 |
-| 90d | 2026-08-08 | 30 | 15 | 2 | 124 | 14 | 704 |
-| last180d | 2026-05-10 | 88 | 69 | 2 | 236 | 14 | 1317 |
-| 360d | 2025-11-11 | 100 | 119 | 2 | 645 | 14 | 2797 |
-| last720d | 2024-11-16 | 100 | 126 | 2 | 782 | 14 | 3894 |
+| 30d | 2026-10-08 | 4 | 2 | 2 | 33 | 8 | 264 |
+| last60d | 2026-09-08 | 14 | 5 | 2 | 86 | 12 | 503 |
+| 90d | 2026-08-09 | 30 | 14 | 2 | 123 | 15 | 704 |
+| last180d | 2026-05-11 | 88 | 69 | 2 | 236 | 15 | 1317 |
+| 360d | 2025-11-12 | 100 | 119 | 2 | 645 | 15 | 2797 |
+| last720d | 2024-11-17 | 100 | 126 | 2 | 782 | 15 | 3894 |
 
 ## Release assets
 
@@ -75,7 +75,7 @@ Total: **483,846** lines of code across **941** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **16** distros on [repology.org](https://repology.org/project/rumdl). **8** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/rumdl). **8** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -93,4 +93,4 @@ Install metadata for rumdl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T05:55:21Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:27:07Z._
