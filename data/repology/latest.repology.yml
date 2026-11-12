@@ -1,35 +1,3 @@
-- repo: alt_p11
-  srcname: rumdl
-  binnames:
-    - rumdl
-    - rumdl-debuginfo
-  visiblename: rumdl
-  version: 0.2.49
-  origversion: 0.2.49-alt1
-  status: outdated
-  summary: A high-performance Markdown linter
-  maintainers:
-    - amakeenk@altlinux.org
-  licenses:
-    - MIT
-  categories:
-    - Development/Tools
-- repo: altsisyphus
-  srcname: rumdl
-  binnames:
-    - rumdl
-    - rumdl-debuginfo
-  visiblename: rumdl
-  version: 0.3.2
-  origversion: 0.3.2-alt1
-  status: outdated
-  summary: A high-performance Markdown linter
-  maintainers:
-    - amakeenk@altlinux.org
-  licenses:
-    - MIT
-  categories:
-    - Development/Tools
 - repo: arch
   subrepo: extra
   srcname: rumdl
@@ -93,6 +61,38 @@
     - h@nnes.dev
   licenses:
     - MIT
+- repo: alt_p11
+  srcname: rumdl
+  binnames:
+    - rumdl
+    - rumdl-debuginfo
+  visiblename: rumdl
+  version: 0.2.49
+  origversion: 0.2.49-alt1
+  status: outdated
+  summary: A high-performance Markdown linter
+  maintainers:
+    - amakeenk@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Tools
+- repo: altsisyphus
+  srcname: rumdl
+  binnames:
+    - rumdl
+    - rumdl-debuginfo
+  visiblename: rumdl
+  version: 0.3.2
+  origversion: 0.3.2-alt1
+  status: outdated
+  summary: A high-performance Markdown linter
+  maintainers:
+    - amakeenk@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Tools
 - repo: nix_stable_26_05
   srcname: rumdl
   visiblename: rumdl
@@ -203,9 +203,9 @@
 - repo: wikidata
   srcname: Q138325607
   visiblename: rumdl
-  version: 0.3.2
+  version: 0.3.3
   origversion: null
-  status: outdated
+  status: newest
   summary: linter and formatter for Markdown
   licenses:
     - MIT License
