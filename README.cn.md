@@ -14,14 +14,14 @@ x install rumdl
 
 ## 代码洞察
 
-合计: **489,700** 行代码（覆盖前 5 种语言、共 **949** 个文件）。
+合计: **494,096** 行代码（覆盖前 5 种语言、共 **949** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 465,164 | 40,368 | 58,546 | 897 |
+| Rust | 466,727 | 40,387 | 58,580 | 898 |
 | Yaml | 9,317 | 36 | 4 | 2 |
-| Python | 4,656 | 195 | 774 | 27 |
-| Json | 2,906 | 0 | 0 | 14 |
+| Json | 6,264 | 0 | 0 | 14 |
+| Python | 4,601 | 195 | 765 | 26 |
 | Svg | 2,579 | 55 | 11 | 9 |
 
 ## 源代码
@@ -31,56 +31,56 @@ x install rumdl
 
 ## 发布
 
-- **最新版本**: `v0.3.3` (2026-11-10)
-- **最近提交**: 2026-11-10
+- **最新版本**: `v0.3.4` (2026-11-12)
+- **最近提交**: 2026-11-12
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 1,652 · **Fork**: 93 · **开放 issue**: 809 · **贡献者**: 65
+- **Star**: 1,658 · **Fork**: 95 · **开放 issue**: 810 · **贡献者**: 67
 
 ## 累计统计
 
-- **发布数**: 395 · **已合并 PR**: 128 · **开放 PR**: 0 · **已关闭 issue**: 795 · **开放 issue**: 14 · **提交数**: 3921
+- **发布数**: 396 · **已合并 PR**: 131 · **开放 PR**: 0 · **已关闭 issue**: 795 · **开放 issue**: 15 · **提交数**: 3931
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 4 | 4 | 0 | 25 | 9 | 145 |
-| last60d | 2026-09-13 | 10 | 5 | 0 | 90 | 12 | 484 |
-| 90d | 2026-08-14 | 28 | 14 | 0 | 128 | 14 | 699 |
-| last180d | 2026-05-16 | 87 | 71 | 0 | 247 | 14 | 1299 |
-| 360d | 2025-11-17 | 100 | 121 | 0 | 654 | 14 | 2780 |
-| last720d | 2024-11-22 | 100 | 128 | 0 | 795 | 14 | 3921 |
+| 30d | 2026-10-14 | 5 | 6 | 0 | 21 | 10 | 154 |
+| last60d | 2026-09-14 | 11 | 8 | 0 | 89 | 13 | 493 |
+| 90d | 2026-08-15 | 29 | 17 | 0 | 125 | 15 | 708 |
+| last180d | 2026-05-17 | 88 | 74 | 0 | 247 | 15 | 1308 |
+| 360d | 2025-11-18 | 100 | 124 | 0 | 653 | 15 | 2789 |
+| last720d | 2024-11-23 | 100 | 131 | 0 | 795 | 15 | 3931 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [rumdl-v0.3.3-aarch64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.3.3/rumdl-v0.3.3-aarch64-apple-darwin.tar.gz) | 7.1 MiB | `native/darwin/arm64` |
-| [rumdl-v0.3.3-aarch64-apple-darwin.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.3.3/rumdl-v0.3.3-aarch64-apple-darwin.tar.gz.sha256) | 107 B | `native/darwin/arm64` |
-| [rumdl-v0.3.3-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.3.3/rumdl-v0.3.3-aarch64-unknown-linux-gnu.tar.gz) | 7.4 MiB | `native/linux/arm64/glibc` |
-| [rumdl-v0.3.3-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.3.3/rumdl-v0.3.3-aarch64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `native/linux/arm64/glibc` |
-| [rumdl-v0.3.3-aarch64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.3.3/rumdl-v0.3.3-aarch64-unknown-linux-musl.tar.gz) | 7.4 MiB | `native/linux/arm64/musl` |
-| [rumdl-v0.3.3-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.3.3/rumdl-v0.3.3-aarch64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/arm64/musl` |
-| [rumdl-v0.3.3-x86_64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.3.3/rumdl-v0.3.3-x86_64-apple-darwin.tar.gz) | 7.8 MiB | `native/darwin/x64` |
-| [rumdl-v0.3.3-x86_64-apple-darwin.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.3.3/rumdl-v0.3.3-x86_64-apple-darwin.tar.gz.sha256) | 106 B | `native/darwin/x64` |
-| [rumdl-v0.3.3-x86_64-pc-windows-msvc.zip](https://github.com/rvben/rumdl/releases/download/v0.3.3/rumdl-v0.3.3-x86_64-pc-windows-msvc.zip) | 8.1 MiB | `native/win/x64` |
-| [rumdl-v0.3.3-x86_64-pc-windows-msvc.zip.sha256](https://github.com/rvben/rumdl/releases/download/v0.3.3/rumdl-v0.3.3-x86_64-pc-windows-msvc.zip.sha256) | 66 B | `native/win/x64` |
-| [rumdl-v0.3.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.3.3/rumdl-v0.3.3-x86_64-unknown-linux-gnu.tar.gz) | 8.1 MiB | `native/linux/x64/glibc` |
-| [rumdl-v0.3.3-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.3.3/rumdl-v0.3.3-x86_64-unknown-linux-gnu.tar.gz.sha256) | 111 B | `native/linux/x64/glibc` |
-| [rumdl-v0.3.3-x86_64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.3.3/rumdl-v0.3.3-x86_64-unknown-linux-musl.tar.gz) | 8.1 MiB | `native/linux/x64/musl` |
-| [rumdl-v0.3.3-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.3.3/rumdl-v0.3.3-x86_64-unknown-linux-musl.tar.gz.sha256) | 112 B | `native/linux/x64/musl` |
+| [rumdl-v0.3.4-aarch64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-aarch64-apple-darwin.tar.gz) | 7.2 MiB | `native/darwin/arm64` |
+| [rumdl-v0.3.4-aarch64-apple-darwin.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-aarch64-apple-darwin.tar.gz.sha256) | 107 B | `native/darwin/arm64` |
+| [rumdl-v0.3.4-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-aarch64-unknown-linux-gnu.tar.gz) | 7.4 MiB | `native/linux/arm64/glibc` |
+| [rumdl-v0.3.4-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-aarch64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `native/linux/arm64/glibc` |
+| [rumdl-v0.3.4-aarch64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-aarch64-unknown-linux-musl.tar.gz) | 7.4 MiB | `native/linux/arm64/musl` |
+| [rumdl-v0.3.4-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-aarch64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/arm64/musl` |
+| [rumdl-v0.3.4-x86_64-apple-darwin.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-apple-darwin.tar.gz) | 7.8 MiB | `native/darwin/x64` |
+| [rumdl-v0.3.4-x86_64-apple-darwin.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-apple-darwin.tar.gz.sha256) | 106 B | `native/darwin/x64` |
+| [rumdl-v0.3.4-x86_64-pc-windows-msvc.zip](https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-pc-windows-msvc.zip) | 8.1 MiB | `native/win/x64` |
+| [rumdl-v0.3.4-x86_64-pc-windows-msvc.zip.sha256](https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-pc-windows-msvc.zip.sha256) | 66 B | `native/win/x64` |
+| [rumdl-v0.3.4-x86_64-unknown-linux-gnu.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-unknown-linux-gnu.tar.gz) | 8.1 MiB | `native/linux/x64/glibc` |
+| [rumdl-v0.3.4-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-unknown-linux-gnu.tar.gz.sha256) | 111 B | `native/linux/x64/glibc` |
+| [rumdl-v0.3.4-x86_64-unknown-linux-musl.tar.gz](https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-unknown-linux-musl.tar.gz) | 8.1 MiB | `native/linux/x64/musl` |
+| [rumdl-v0.3.4-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-unknown-linux-musl.tar.gz.sha256) | 112 B | `native/linux/x64/musl` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/rumdl) 上共有 **18** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/rumdl) 上共有 **18** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**16** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `0.2.78` | ⚠️ outdated |
-| Homebrew | `0.3.3` | ✅ latest |
+| Homebrew | `0.3.4` | ✅ latest |
 | Nix unstable | `0.3.2` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.3.2` | ⚠️ outdated |
 
@@ -93,4 +93,4 @@ rumdl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261112.yml` · 2026-11-12T06:40:10Z._
+_数据快照: `data/card/261113.yml` · 2026-11-13T05:57:17Z._
