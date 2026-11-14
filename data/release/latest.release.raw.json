@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7503879,
       "digest": "sha256:51f7bce0d56ea632ed65e7e42a99effb7ce7a23923fe0738ecda0e1d11bcb788",
-      "download_count": 59,
+      "download_count": 312,
       "created_at": "2026-11-12T21:53:03Z",
       "updated_at": "2026-11-12T21:53:04Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:47776bc430a26714b35b5cfab5a611196bdca415481f0569394c7f70640cb3e5",
-      "download_count": 27,
+      "download_count": 93,
       "created_at": "2026-11-12T21:53:04Z",
       "updated_at": "2026-11-12T21:53:04Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-aarch64-apple-darwin.tar.gz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7796084,
       "digest": "sha256:d51bfff8c4aacebb786f701918389b3b568129cb9c16aee12567ede6869a61ad",
-      "download_count": 15,
+      "download_count": 195,
       "created_at": "2026-11-12T21:53:03Z",
       "updated_at": "2026-11-12T21:53:05Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": "sha256:6162a410d7cab765a30b4dac7e22a6a0cb9949b817a8ea27e7470f8293b808fb",
-      "download_count": 26,
+      "download_count": 89,
       "created_at": "2026-11-12T21:53:04Z",
       "updated_at": "2026-11-12T21:53:04Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-aarch64-unknown-linux-gnu.tar.gz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7764257,
       "digest": "sha256:712d7b0c5413a5bc0315c939f29a9cc87dbee43fb9a119138fff1d6599a41f92",
-      "download_count": 18,
+      "download_count": 121,
       "created_at": "2026-11-12T21:53:03Z",
       "updated_at": "2026-11-12T21:53:05Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-aarch64-unknown-linux-musl.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 113,
       "digest": "sha256:9ccfcd68f3b8fc8ddf3c9425453872373aeef16636c5cde6293992fccbc500fd",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-11-12T21:53:03Z",
       "updated_at": "2026-11-12T21:53:04Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 8193883,
       "digest": "sha256:e08cce7484b30f755b00b24d0629c2f87ab418cf1c24550e2466d2ac754dc97d",
-      "download_count": 21,
+      "download_count": 116,
       "created_at": "2026-11-12T21:53:03Z",
       "updated_at": "2026-11-12T21:53:05Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-apple-darwin.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:badc74c21a15a901c9e17ce5e580b2bea069b91bf6ce216e4ec4db7e04b07c76",
-      "download_count": 27,
+      "download_count": 92,
       "created_at": "2026-11-12T21:53:04Z",
       "updated_at": "2026-11-12T21:53:04Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-apple-darwin.tar.gz.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 8497151,
       "digest": "sha256:d059ae097c7d23ac627abb92a4496eb25aecc513f901a8e907662de98df0e875",
-      "download_count": 73,
+      "download_count": 268,
       "created_at": "2026-11-12T21:53:03Z",
       "updated_at": "2026-11-12T21:53:05Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-pc-windows-msvc.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 66,
       "digest": "sha256:6069448515423db9167c4515861cb606a1bf9fc5c2f714b3a78ef0c4b92b596e",
-      "download_count": 19,
+      "download_count": 22,
       "created_at": "2026-11-12T21:53:04Z",
       "updated_at": "2026-11-12T21:53:04Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-pc-windows-msvc.zip.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 8505806,
       "digest": "sha256:36f1524f0cfaf33f5dfe68ac19220e1bd57ded1f0f9205931f6ee1de32f4a040",
-      "download_count": 196,
+      "download_count": 1170,
       "created_at": "2026-11-12T21:53:03Z",
       "updated_at": "2026-11-12T21:53:05Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-unknown-linux-gnu.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 111,
       "digest": "sha256:5c1630fca76396001a8e630576b32d9cddb5dc9da7e1fcbaec51752ab17fddb5",
-      "download_count": 39,
+      "download_count": 112,
       "created_at": "2026-11-12T21:53:03Z",
       "updated_at": "2026-11-12T21:53:04Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 8474970,
       "digest": "sha256:2e64c7654906f0df82218fcc73cbdded2e41f37961f5be3e876e708bdf42e367",
-      "download_count": 142,
+      "download_count": 676,
       "created_at": "2026-11-12T21:53:03Z",
       "updated_at": "2026-11-12T21:53:05Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-unknown-linux-musl.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": "sha256:75300d36c2b8986b36cdebb96670abe281502251d12adcc6e4fbcf039f58124a",
-      "download_count": 112,
+      "download_count": 476,
       "created_at": "2026-11-12T21:53:03Z",
       "updated_at": "2026-11-12T21:53:04Z",
       "browser_download_url": "https://github.com/rvben/rumdl/releases/download/v0.3.4/rumdl-v0.3.4-x86_64-unknown-linux-musl.tar.gz.sha256"
