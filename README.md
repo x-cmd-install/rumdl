@@ -37,7 +37,7 @@ Total: **496,394** lines of code across **951** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,666 · **Forks**: 95 · **Open issues**: 812 · **Contributors**: 67
+- **Stars**: 1,667 · **Forks**: 95 · **Open issues**: 812 · **Contributors**: 67
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **496,394** lines of code across **951** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 5 | 8 | 0 | 25 | 7 | 163 |
-| last60d | 2026-09-16 | 11 | 10 | 0 | 85 | 10 | 502 |
-| 90d | 2026-08-17 | 29 | 19 | 0 | 130 | 12 | 717 |
-| last180d | 2026-05-19 | 87 | 76 | 0 | 246 | 12 | 1317 |
-| 360d | 2025-11-20 | 100 | 125 | 0 | 655 | 12 | 2798 |
-| last720d | 2024-11-25 | 100 | 133 | 0 | 800 | 12 | 3940 |
+| 30d | 2026-10-17 | 5 | 8 | 0 | 23 | 7 | 75 |
+| last60d | 2026-09-17 | 11 | 10 | 0 | 83 | 10 | 462 |
+| 90d | 2026-08-18 | 29 | 19 | 0 | 128 | 12 | 667 |
+| last180d | 2026-05-20 | 86 | 75 | 0 | 245 | 12 | 1292 |
+| 360d | 2025-11-21 | 100 | 125 | 0 | 655 | 12 | 2777 |
+| last720d | 2024-11-26 | 100 | 133 | 0 | 800 | 12 | 3940 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Reported by **18** distros on [repology.org](https://repology.org/project/rumdl)
 |--------|---------|--------|
 | Arch | `0.2.78` | ⚠️ outdated |
 | Homebrew | `0.3.4` | ✅ latest |
-| Nix unstable | `0.3.2` | ⚠️ outdated |
+| Nix unstable | `0.3.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.3.2` | ⚠️ outdated |
 
 ## Improve this data
@@ -93,4 +93,4 @@ Install metadata for rumdl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T05:45:58Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T05:45:56Z._
