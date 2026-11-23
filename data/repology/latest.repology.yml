@@ -20,9 +20,9 @@
     - rumdl
     - rumdl-debuginfo
   visiblename: rumdl
-  version: 0.3.2
-  origversion: 0.3.2-alt1
-  status: outdated
+  version: 0.3.5
+  origversion: 0.3.5-alt1
+  status: newest
   summary: A high-performance Markdown linter
   maintainers:
     - amakeenk@altlinux.org
@@ -174,9 +174,9 @@
   srcname: textproc/rumdl
   binname: rumdl
   visiblename: textproc/rumdl
-  version: 0.3.4
+  version: 0.3.5
   origversion: null
-  status: outdated
+  status: newest
   summary: Markdown Linter
   maintainers:
     - pkgsrc-users@netbsd.org
