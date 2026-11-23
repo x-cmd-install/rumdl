@@ -37,7 +37,7 @@ Total: **500,818** lines of code across **958** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,692 · **Forks**: 101 · **Open issues**: 819 · **Contributors**: 70
+- **Stars**: 1,695 · **Forks**: 101 · **Open issues**: 819 · **Contributors**: 70
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **500,818** lines of code across **958** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 5 | 12 | 1 | 23 | 9 | 103 |
-| last60d | 2026-09-23 | 10 | 15 | 1 | 67 | 12 | 490 |
-| 90d | 2026-08-24 | 25 | 23 | 1 | 130 | 14 | 695 |
-| last180d | 2026-05-26 | 85 | 80 | 1 | 247 | 14 | 1320 |
-| 360d | 2025-11-27 | 100 | 129 | 1 | 654 | 14 | 2805 |
-| last720d | 2024-12-02 | 100 | 138 | 1 | 805 | 14 | 3970 |
+| 30d | 2026-10-24 | 5 | 12 | 1 | 23 | 9 | 92 |
+| last60d | 2026-09-24 | 8 | 15 | 1 | 66 | 12 | 399 |
+| 90d | 2026-08-25 | 25 | 23 | 1 | 130 | 14 | 647 |
+| last180d | 2026-05-27 | 83 | 80 | 1 | 247 | 14 | 1274 |
+| 360d | 2025-11-28 | 100 | 128 | 1 | 653 | 14 | 2785 |
+| last720d | 2024-12-03 | 100 | 138 | 1 | 805 | 14 | 3970 |
 
 ## Release assets
 
@@ -75,7 +75,7 @@ Total: **500,818** lines of code across **958** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **18** distros on [repology.org](https://repology.org/project/rumdl). **4** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/rumdl). **6** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -93,4 +93,4 @@ Install metadata for rumdl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T05:58:42Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T06:51:10Z._
