@@ -108,9 +108,9 @@
 - repo: nix_unstable
   srcname: rumdl
   visiblename: rumdl
-  version: 0.3.3
+  version: 0.3.5
   origversion: null
-  status: outdated
+  status: newest
   summary: Markdown linter and formatter
   maintainers:
     - kachick1@gmail.com
@@ -127,9 +127,9 @@
     - rumdl-debuginfo
     - rumdl-debugsource
   visiblename: rumdl
-  version: 0.3.2
-  origversion: 0.3.2-1.1
-  status: outdated
+  version: 0.3.5
+  origversion: 0.3.5-1.1
+  status: newest
   summary: Markdown Linter written in Rust
   licenses:
     - MIT AND MPL-2.0
