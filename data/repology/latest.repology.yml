@@ -22,7 +22,7 @@
   visiblename: rumdl
   version: 0.3.5
   origversion: 0.3.5-alt1
-  status: newest
+  status: outdated
   summary: A high-performance Markdown linter
   maintainers:
     - amakeenk@altlinux.org
@@ -44,7 +44,7 @@
 - repo: homebrew
   srcname: rumdl
   visiblename: rumdl
-  version: 0.3.5
+  version: 0.3.6
   origversion: null
   status: newest
   summary: Markdown Linter and Formatter written in Rust
@@ -110,7 +110,7 @@
   visiblename: rumdl
   version: 0.3.5
   origversion: null
-  status: newest
+  status: outdated
   summary: Markdown linter and formatter
   maintainers:
     - kachick1@gmail.com
@@ -129,7 +129,7 @@
   visiblename: rumdl
   version: 0.3.5
   origversion: 0.3.5-1.1
-  status: newest
+  status: outdated
   summary: Markdown Linter written in Rust
   licenses:
     - MIT AND MPL-2.0
@@ -176,7 +176,7 @@
   visiblename: textproc/rumdl
   version: 0.3.5
   origversion: null
-  status: newest
+  status: outdated
   summary: Markdown Linter
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -186,7 +186,7 @@
   subrepo: main
   binname: rumdl
   visiblename: rumdl
-  version: 0.3.5
+  version: 0.3.6
   origversion: null
   status: newest
   licenses:
@@ -195,7 +195,7 @@
   srcname: rumdl
   binname: rumdl
   visiblename: rumdl
-  version: 0.3.5
+  version: 0.3.6
   origversion: null
   status: newest
   summary: Markdown Linter and Formatter written in Rust
@@ -206,7 +206,7 @@
   visiblename: rumdl
   version: 0.3.5
   origversion: null
-  status: newest
+  status: outdated
   summary: linter and formatter for Markdown
   licenses:
     - MIT License
