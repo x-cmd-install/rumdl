@@ -1,0 +1,174 @@
+about:
+  description: "Fast Markdown linter and formatter written in Rust"
+  license: NOASSERTION
+  homepage: 
+  head: 03f7391
+  archived: false
+  latestVersion: "v0.3.8"
+  latestRelease: "v0.3.8"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T07:09:48Z
+timeline:
+  created: 2025-02-28
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
+  lastPrerelease: 
+popularity:
+  star: 1707
+  watcher: 8
+  fork: 101
+  release: 400
+  contributor: 72
+  pullRequest: 177
+  issue: 829
+language:
+  Rust: 23494006
+  Python: 224151
+  JavaScript: 38624
+  Makefile: 29093
+  Shell: 19590
+  TypeScript: 9713
+  Dockerfile: 3182
+  HTML: 2317
+  Tape: 1093
+  Go Template: 328
+totalBytes: 23822097
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 6
+    mergedPR: 15
+    openPR: 0
+    closedIssue: 34
+    openIssue: 5
+    commit: 115
+  last60d:
+    since: 2026-09-29
+    release: 11
+    mergedPR: 17
+    openPR: 0
+    closedIssue: 77
+    openIssue: 7
+    commit: 422
+  last90d:
+    since: 2026-08-30
+    release: 26
+    mergedPR: 24
+    openPR: 0
+    closedIssue: 140
+    openIssue: 9
+    commit: 670
+  last180d:
+    since: 2026-06-01
+    release: 84
+    mergedPR: 82
+    openPR: 0
+    closedIssue: 255
+    openIssue: 9
+    commit: 1297
+  last360d:
+    since: 2025-12-03
+    release: 100
+    mergedPR: 131
+    openPR: 0
+    closedIssue: 658
+    openIssue: 9
+    commit: 2808
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 141
+    openPR: 0
+    closedIssue: 820
+    openIssue: 9
+    commit: 3997
+total:
+  release: 400
+  mergedPR: 141
+  openPR: 0
+  closedIssue: 820
+  openIssue: 9
+  commit: 3997
+---
+path: /home/runner/.x-repo/github.com/rvben/rumdl
+collectedAt: 2026-11-28T07:09:55Z
+loc:
+  Rust:
+    code: 475150
+    comments: 40955
+    blanks: 59177
+    files: 908
+  Yaml:
+    code: 9317
+    comments: 36
+    blanks: 4
+    files: 2
+  Json:
+    code: 7248
+    comments: 0
+    blanks: 0
+    files: 14
+  Python:
+    code: 5034
+    comments: 202
+    blanks: 862
+    files: 30
+  Svg:
+    code: 2579
+    comments: 55
+    blanks: 11
+    files: 9
+  Css:
+    code: 1844
+    comments: 14
+    blanks: 318
+    files: 2
+  JavaScript:
+    code: 1387
+    comments: 15
+    blanks: 108
+    files: 10
+  Toml:
+    code: 496
+    comments: 113
+    blanks: 94
+    files: 10
+  Sh:
+    code: 437
+    comments: 91
+    blanks: 72
+    files: 7
+  Makefile:
+    code: 404
+    comments: 167
+    blanks: 93
+    files: 1
+  Dockerfile:
+    code: 35
+    comments: 23
+    blanks: 13
+    files: 1
+  Html:
+    code: 29
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 21562
+    blanks: 8877
+    files: 151
+  Text:
+    code: 0
+    comments: 226
+    blanks: 50
+    files: 7
+total:
+  code: 506758
+  comments: 101714
+  blanks: 75871
+  files: 1153
+---
+
+---
